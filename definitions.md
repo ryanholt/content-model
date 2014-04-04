@@ -1,6 +1,6 @@
 #CONTENT TYPE DEFINITIONS
 
-##ACTIVITIES
+##ACTIVITY
 
 An **activity** is an outdoor pursuit that can be performed by the general public and ultimately benefits Wildlife Resources’ mission of conserving, enhancing and promoting wildlife.
 
@@ -74,7 +74,8 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 - Trail Shelters
 - Fish Cleaning Stations
 
-##Event
+##EVENT
+
 An **event** is an organized, regularly occurring event produced in part or in whole by Wildlife Resources Division to promote public participation in designated activities. The public must be able to directly support or participate in an event as a student, registrant/attendee, volunteer, donor, license holder or recipient. 
 
 An event's purpose and details should be relevant and accessible year-round, while its specific dates and locations are to be advertised as available on the Global Calendar. 
