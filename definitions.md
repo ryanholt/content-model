@@ -67,7 +67,7 @@ For the public, the promotion of these items on the website will help characteri
 
 An **amenity** improves a customer’s comfort in using a feature or taking part in an activity. Amenities are unlikely to be the criteria that the public will use to identify an opportunity for an activity therefor they will not appear verbally on the website. Instead, these items are best represented on a map either as symbols or text.
 
-EXAMPLES INCLUDE:
+###EXAMPLES INCLUDE:
 
 - Restrooms
 - Parking Areas
