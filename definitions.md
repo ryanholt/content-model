@@ -107,9 +107,27 @@ A program often has an official name, and sometimes, a logo, such as the Go Fish
 Sometimes supporting program are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor. 
 
 ###EXAMPLES INCLUDE:
+
 - Game Management
 - Go Fish Georgia Initiative
 - Nongame Conservation
 - Prescribed Fire
 - The Stream Team
 
+##SERVICE
+
+A **service** is performed by a professional for the benefit of an individual or a corporate entity. For the division to perform these services, there is a hard cost; therefore services are often accompanied by a fee or entirely provided by an outside vendor.
+
+###EXAMPLES INCLUDE:
+
+- The Sale of Licenses
+- Issuance of Vessel Registrations
+-	Issuance of Special Permits
+-	Wildlife Removal Services
+-	Wildlife Rehabilitation Services
+-	Landowner Services
+- Sale of Fish for Stocking 
+- Processor and Taxidermist Services
+- Scoring, Measuring and Registry
+- Providing Technical Assistance
+- Providing Data and Research
