@@ -74,12 +74,12 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 - Trail Shelters
 - Fish Cleaning Stations
 
-##PUBLIC PROGRAM
-A **public program** is an organized, regularly occurring event produced in part or in whole by Wildlife Resources Division to promote public participation in designated activities. The public must be able to directly support or participate in an event as a student, registrant/attendee, volunteer, donor, license holder or recipient. 
+##Event
+An **event** is an organized, regularly occurring event produced in part or in whole by Wildlife Resources Division to promote public participation in designated activities. The public must be able to directly support or participate in an event as a student, registrant/attendee, volunteer, donor, license holder or recipient. 
 
-A public program’s purpose and details should be relevant and accessible year-round, while its specific dates and locations are to be advertised as available on the Global Calendar. 
+An event's purpose and details should be relevant and accessible year-round, while its specific dates and locations are to be advertised as available on the Global Calendar. 
 
-Sometimes public programs are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor.
+Sometimes events are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor.
 
 ###EXAMPLES:
 
