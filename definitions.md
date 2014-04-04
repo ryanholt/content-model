@@ -1,8 +1,8 @@
-#Content Type Definitions
+#CONTENT TYPE DEFINITIONS
 
-##Activity
+##ACTIVITIES
 
-An *activity* is an outdoor pursuit that can be performed by the general public and ultimately benefits Wildlife Resources’ mission of conserving, enhancing and promoting wildlife.
+An **activity** is an outdoor pursuit that can be performed by the general public and ultimately benefits Wildlife Resources’ mission of conserving, enhancing and promoting wildlife.
 
 The promotion of these activities on the website—and when, where and how the public can take part in them—must be justified in at least one of two ways:
 
@@ -16,23 +16,37 @@ For example, it is possible for kayakers and other types of paddlers to pass thr
 
 Activities cannot be designated on a map as they could encompass the entire property or could overlap with a particular feature on the property. For instance, *Fishing* is allowed practically everywhere on a Public Fishing Area. *Hiking* would overlap the feature *Hiking Trail*.
 
-###Examples Include:
+###EXAMPLES INCLUDE:
 
-- *Boating*
-- *Camping*
-- *Caving*
-- *Fishing*
-- *Hang-gliding*
-- *Hiking*
-- *Horseback Riding*
-- *Hunting*
-- *Learning*
-- *Paddling*
-- *Shooting*
-- *Rock Climbing*
-- *Tree Climbing*
-- *Volunteering*
-- *Wildlife Watching*
+- Boating
+- Camping
+- Caving
+- Fishing
+- Hang-gliding
+- Hiking
+- Horseback Riding
+- Hunting
+- Learning
+- Paddling
+- Shooting
+- Rock Climbing
+- Tree Climbing
+- Volunteering
+- Wildlife Watching
 
+##ACTIVITY SUBTYPE
 
+An **activity** can have various methods or **subtypes**. A subtype can be introduced or specifically addressed when special regulations, locations, amenities or license/fee must be communicated in connection with the Wildlife Resources’ mission.
+
+###EXAMPLES INCLUDE:
+
+Activity          | Subtypes
+:---------------- | :----------------
+Boating           | Motorboating
+Fishing	          | Freshwater Fishing<br>Noodling<br>Saltwater Fishing<br>Trout Fishing
+Hunting	          | Big Game Hunting<br>Small Game Hunting<br>Waterfowl Hunting<br>Other (Falconry, Trapping)
+Learning          | Group/School Programs<br>Educator Training<br>Individual Opportunities<br>Museums, Exhibits and Tours
+Paddling          | Canoeing<br>Kayaking<br>Rowboating
+Shooting          | Archery<br>Firearms
+Wildlife Watching | Birding
 
