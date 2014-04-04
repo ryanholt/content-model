@@ -50,3 +50,16 @@ Paddling          | Canoeing<br>Kayaking<br>Rowboating
 Shooting          | Archery<br>Firearms
 Wildlife Watching | Birding
 
+##FEATURE
+
+A **feature** is any stand-alone facility, structure or part of the natural landscape that directly supports Wildlife Resources’ designated activities. These items can be represented on a map as an area, a line or a point/symbol/icon.
+For the public, the promotion of these items on the website will help characterize the experience they will have on Wildlife Resources’ properties and also allow them to find locations that offer the features they desire.
+
+###EXAMPLES INCLUDE:
+
+- **A Type of Water-body:** Stream, River, Lake, Reservoir
+- **A Variety of Trail:** Nature Trail, Interpretive Trail, Equestrian
+- **A Kind of Shooting Facility:** Archery Range, Firearms Range
+- **A Class of Boat Ramp:** Large Ramp, Small Ramp, Hand Launch
+- **A Campground Designation:** Primitive Backcountry Campsite
+
