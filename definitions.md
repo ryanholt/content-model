@@ -122,10 +122,10 @@ A **service** is performed by a professional for the benefit of an individual or
 
 - The Sale of Licenses
 - Issuance of Vessel Registrations
--	Issuance of Special Permits
--	Wildlife Removal Services
--	Wildlife Rehabilitation Services
--	Landowner Services
+- Issuance of Special Permits
+- Wildlife Removal Services
+- Wildlife Rehabilitation Services
+- Landowner Services
 - Sale of Fish for Stocking 
 - Processor and Taxidermist Services
 - Scoring, Measuring and Registry
