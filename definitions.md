@@ -92,3 +92,24 @@ Sometimes events are “owned” by an external organization with its own websit
 - Project Wild
 
 
+##PROGRAM
+
+A **program** is an organized and structured effort, initiative, campaign, unit or section within Wildlife Resources Division that strives to conserve, enhance or promote wildlife. 
+
+The inclusion of programs on the website must be justified in at least one of two ways:
+
+1. The public may interface with program staff or witness their professional duties in pursuit of an activity.
+2. The supporting program makes an activity possible.
+ 
+A supporting program is not a Service (see description).
+
+A program often has an official name, and sometimes, a logo, such as the Go Fish Georgia Initiative. 
+Sometimes supporting program are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor. 
+
+###EXAMPLES INCLUDE:
+- Game Management
+- Go Fish Georgia Initiative
+- Nongame Conservation
+- Prescribed Fire
+- The Stream Team
+
