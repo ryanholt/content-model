@@ -76,20 +76,20 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 
 ##EVENT
 
-An **event** is an organized, regularly occurring event produced in part or in whole by Wildlife Resources Division to promote public participation in designated activities. The public must be able to directly support or participate in an event as a student, registrant/attendee, volunteer, donor, license holder or recipient. 
+An **event** is an organized happening, held regularly and produced in part or in whole by Wildlife Resources, that promotes public participation in and/or support of the division's mission specific activities or its programs and initiatives. The public must be able to engage in an event as a student, registrant/attendee, spectator, volunteer, donor, license holder or recipient. 
 
-An event's purpose and details should be relevant and accessible year-round, while its specific dates and locations are to be advertised as available on the Global Calendar. 
+An event's purpose and details should be relevant and accessible year-round, while its specific dates and locations are to be conveyed through a separate calendar. 
 
-Sometimes events are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor.
+Events are sometimes orchestrated primarily by an external organization. Therefore information about these events is already availble on the organization's website. Whenever possible, the public should be directed to existing sites as the source for event information. Information specific to and necessary for events in Georgia can be listed on the Wildlife Resources website.
 
 ###EXAMPLES:
 
 - JAKEs Day
 - Free Fishing Days
-- Hunter Education
+- Hunter Education Sessions
 - Summer Camps
-- National Archery in the Schools Program
-- Project Wild
+- NASP Tournaments
+- Project Wild Workshops
 
 
 ##PROGRAM
