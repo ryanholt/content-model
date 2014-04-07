@@ -109,7 +109,6 @@ Sometimes supporting program are “owned” by an external organization with it
 ###EXAMPLES INCLUDE:
 
 - Game Management
-- Go Fish Georgia Initiative
 - Nongame Conservation
 - Prescribed Fire
 - The Stream Team
