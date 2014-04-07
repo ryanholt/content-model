@@ -99,7 +99,7 @@ A **program** is an organized and structured effort, initiative, campaign, unit 
 The inclusion of programs on the website must be justified in at least one of two ways:
 
 1. The public may interface with program staff or witness their professional duties in pursuit of an activity.
-2. The supporting program makes an activity possible.
+2. The program makes an activity possible.
  
 A supporting program is not a Service (see description).
 
