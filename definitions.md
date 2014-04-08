@@ -43,7 +43,7 @@ An **activity** can have various methods or **subtypes**. A subtype can be intro
 Activity          | Subtypes
 :---------------- | :----------------
 Boating           | Motorboating
-Fishing	          | Freshwater Fishing<br>Noodling<br>Saltwater Fishing<br>Trout Fishing
+Fishing	          | Freshwater Fishing<br>Saltwater Fishing<br>Trout Fishing
 Hunting	          | Big Game Hunting<br>Small Game Hunting<br>Waterfowl Hunting<br>Other (Falconry, Trapping)
 Learning          | Group/School Programs<br>Educator Training<br>Individual Opportunities<br>Museums, Exhibits and Tours
 Paddling          | Canoeing<br>Kayaking<br>Rowboating
