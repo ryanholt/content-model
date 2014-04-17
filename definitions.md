@@ -76,17 +76,13 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 
 ##EVENT
 
-An **event** is an organized happening, held regularly and produced in part or in whole by Wildlife Resources, that promotes public participation in and/or support of the division's mission specific activities or its programs and initiatives. The public must be able to engage in an event as a student, registrant/attendee, spectator, volunteer, donor, license holder or recipient. 
-
-An event's purpose and details should be relevant and accessible year-round, while its specific dates and locations are to be conveyed through a separate calendar. 
-
-Events are sometimes orchestrated primarily by an external organization. Therefore information about these events is already availble on the organization's website. Whenever possible, the public should be directed to existing sites as the source for event information. Information specific to and necessary for events in Georgia can be listed on the Wildlife Resources website.
+An **event** is a class, conference, workshop, competition, festival, fair, field day, camp or other specially organized experience, open to the public or a segment of the public. Event information lives on the Global Calendar and contains specific directives about participating. Events are organized, promtoed, sponsored or endorsed, in whole or part, by Wildlife Resources. Events support the division's programs and initiatives. 
 
 ###EXAMPLES:
 
 - JAKEs Day
 - Free Fishing Days
-- Hunter Education Sessions
+- Hunter Education Courses
 - Summer Camps
 - NASP Tournaments
 - Project Wild Workshops
@@ -94,22 +90,31 @@ Events are sometimes orchestrated primarily by an external organization. Therefo
 
 ##PROGRAM
 
-A **program** is an organized and structured effort, initiative, campaign, unit or section within Wildlife Resources Division that strives to conserve, enhance or promote wildlife. 
+A **program** is an organized and structured effort, initiative, campaign or unit within Wildlife Resources Division that strives to conserve, enhance or promote wildlife through public participation. 
 
-The inclusion of programs on the website must be justified in at least one of two ways:
+A program is not a Service. Programs often have Events or other ways to invite the public into its specific area of focus. 
 
-1. The public may interface with program staff or witness their professional duties in pursuit of an activity.
-2. The program makes an activity possible.
- 
-A supporting program is not a Service (see description).
+A program often has an official name, and sometimes, a logo. Sometimes supporting program are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor. 
 
-A program often has an official name, and sometimes, a logo, such as the Go Fish Georgia Initiative. 
-Sometimes supporting program are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor. 
+###EXAMPLES INCLUDE:
+
+- National Archery in the Schools Program
+- Project Wild
+- Hunter Education
+
+##MANAGEMENT
+
+**Management** is a large-scale operation or section within Wildlife Resources that directs ongoing conservation efforts. Not every operation is directly relevant to the public. At least one of the following questions should be answered "yes," before posting information on the website: 
+- Does the public need to know about the operation to continue to participate in a program, event or activity? (Think Sportfish Restoration Act -- info would help angler understand his/her contribution to conservation for the future)
+- Does the agency need public support to continue the operation? (think Bobwhite Quail)
+- Does the operational staff regularly interface with the public? (think Game Management technicians and area managers)
+- Will the public witness the operations and need background to understand the strategies employed? (think Prescribed Fire or Stream Team)
 
 ###EXAMPLES INCLUDE:
 
 - Game Management
 - Nongame Conservation
+- Go Fish Initiative
 - Prescribed Fire
 - The Stream Team
 
