@@ -74,9 +74,22 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 - Trail Shelters
 - Fish Cleaning Stations
 
+##CALENDAR LISTING
+A **calendar listing** is a specific event on a specific day(s) and lives on the Global Calendar. Calendar listings may be classes, conferences, workshops, competitions, festivals, fairs, field days, camps or other organized events. They must be events open to the public or segment of the public that further the mission of Wildlife Resources. They may be organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
+
+Calendar listing provide specific instructions and information for attending the event, ie, the date, time, place, cost, reservation instructions, prerequisites, map, phone number/email, hosting organization and other details. 
+
+###EXAMPLES: 
+- JAKEs Day at Charlie Elliott, May 5
+- Free Fishing Days, September 24-25
+- Hunter Education 10-hour course at WRCC next Saturday
+- WILD Creatures of the Night Overnight Camp, July 7-10, Charlie Elliott
+- Statewide NASP Tournament, March 20, Perry
+- WILD Project Educator Workshop, December 14
+
 ##EVENT
 
-An **event** is a class, conference, workshop, competition, festival, fair, field day, camp or other specially organized experience, open to the public or a segment of the public. Event information lives on the Global Calendar and contains specific directives about participating. Events are organized, promtoed, sponsored or endorsed, in whole or part, by Wildlife Resources. Events support the division's programs and initiatives. 
+An **event** is a specially organized experience, open to the public or a segment of the public, on a regular or recurring basis. An event contributes to a larger strategy or initiative within Wildlife Resources. For instance, Hunter Education Courses achieve certain goals for the Hunter Retention/Recruitment program. An event needs a consistent, year-round presence on the website. While specific details are a Calendar Listing on the Global Calendar, an event contains generic information to pique the reader's interest -- purpose, activities, outcomes, photos, etc. An event is organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
 
 ###EXAMPLES:
 
@@ -98,7 +111,8 @@ A program often has an official name, and sometimes, a logo. Sometimes supportin
 
 ###EXAMPLES INCLUDE:
 
-- National Archery in the Schools Program
+- Juniors Acquiring Knowledge Ethics and Sportsmanship 
+- National Archery in the Schools Program 
 - Project Wild
 - Hunter Education
 
