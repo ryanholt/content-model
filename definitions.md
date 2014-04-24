@@ -74,19 +74,28 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 - Trail Shelters
 - Fish Cleaning Stations
 
+##CALENDAR LISTING
+A **calendar listing** is a specific event on a specific day(s) and lives on the Global Calendar. Calendar listings may be classes, conferences, workshops, competitions, festivals, fairs, field days, camps or other organized events. They must be events open to the public or segment of the public that further the mission of Wildlife Resources. They may be organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
+
+Calendar listing provide specific instructions and information for attending the event, ie, the date, time, place, cost, reservation instructions, prerequisites, map, phone number/email, hosting organization and other details. 
+
+###EXAMPLES: 
+- JAKEs Day at Charlie Elliott, May 5
+- Free Fishing Days, September 24-25
+- Hunter Education 10-hour course at WRCC next Saturday
+- WILD Creatures of the Night Overnight Camp, July 7-10, Charlie Elliott
+- Statewide NASP Tournament, March 20, Perry
+- WILD Project Educator Workshop, December 14
+
 ##EVENT
 
-An **event** is an organized happening, held regularly and produced in part or in whole by Wildlife Resources, that promotes public participation in and/or support of the division's mission specific activities or its programs and initiatives. The public must be able to engage in an event as a student, registrant/attendee, spectator, volunteer, donor, license holder or recipient. 
-
-An event's purpose and details should be relevant and accessible year-round, while its specific dates and locations are to be conveyed through a separate calendar. 
-
-Events are sometimes orchestrated primarily by an external organization. Therefore information about these events is already availble on the organization's website. Whenever possible, the public should be directed to existing sites as the source for event information. Information specific to and necessary for events in Georgia can be listed on the Wildlife Resources website.
+An **event** is a specially organized experience, open to the public or a segment of the public, on a regular or recurring basis. An event contributes to a larger strategy or initiative within Wildlife Resources. For instance, Hunter Education Courses achieve certain goals for the Hunter Retention/Recruitment program. An event needs a consistent, year-round presence on the website. While specific details are a Calendar Listing on the Global Calendar, an event contains generic information to pique the reader's interest -- purpose, activities, outcomes, photos, etc. An event is organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
 
 ###EXAMPLES:
 
 - JAKEs Day
 - Free Fishing Days
-- Hunter Education Sessions
+- Hunter Education Courses
 - Summer Camps
 - NASP Tournaments
 - Project Wild Workshops
@@ -94,22 +103,32 @@ Events are sometimes orchestrated primarily by an external organization. Therefo
 
 ##PROGRAM
 
-A **program** is an organized and structured effort, initiative, campaign, unit or section within Wildlife Resources Division that strives to conserve, enhance or promote wildlife. 
+A **program** is an organized and structured effort, initiative, campaign or unit within Wildlife Resources Division that strives to conserve, enhance or promote wildlife through public participation. 
 
-The inclusion of programs on the website must be justified in at least one of two ways:
+A program is not a Service. Programs often have Events or other ways to invite the public into its specific area of focus. 
 
-1. The public may interface with program staff or witness their professional duties in pursuit of an activity.
-2. The program makes an activity possible.
- 
-A supporting program is not a Service (see description).
+A program often has an official name, and sometimes, a logo. Sometimes supporting program are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor. 
 
-A program often has an official name, and sometimes, a logo, such as the Go Fish Georgia Initiative. 
-Sometimes supporting program are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor. 
+###EXAMPLES INCLUDE:
+
+- Juniors Acquiring Knowledge Ethics and Sportsmanship 
+- National Archery in the Schools Program 
+- Project Wild
+- Hunter Education
+
+##MANAGEMENT
+
+**Management** is a large-scale operation or section within Wildlife Resources that directs ongoing conservation efforts. Not every operation is directly relevant to the public. At least one of the following questions should be answered "yes," before posting information on the website: 
+- Does the public need to know about the operation to continue to participate in a program, event or activity? (Think Sportfish Restoration Act -- info would help angler understand his/her contribution to conservation for the future)
+- Does the agency need public support to continue the operation? (think Bobwhite Quail)
+- Does the operational staff regularly interface with the public? (think Game Management technicians and area managers)
+- Will the public witness the operations and need background to understand the strategies employed? (think Prescribed Fire or Stream Team)
 
 ###EXAMPLES INCLUDE:
 
 - Game Management
 - Nongame Conservation
+- Go Fish Initiative
 - Prescribed Fire
 - The Stream Team
 
@@ -130,3 +149,12 @@ A **service** is performed by a professional for the benefit of an individual or
 - Scoring, Measuring and Registry
 - Providing Technical Assistance
 - Providing Data and Research
+
+##PLACE
+
+###TYPES: 
+- Wildlife Management Area
+- Public Fishing Area
+- Education Center
+- Hatchery
+- Range
