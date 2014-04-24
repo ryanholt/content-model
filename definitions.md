@@ -149,3 +149,12 @@ A **service** is performed by a professional for the benefit of an individual or
 - Scoring, Measuring and Registry
 - Providing Technical Assistance
 - Providing Data and Research
+
+##PLACE
+
+###TYPES: 
+- Wildlife Management Area
+- Public Fishing Area
+- Education Center
+- Hatchery
+- Range
