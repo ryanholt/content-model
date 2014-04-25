@@ -1,6 +1,6 @@
 #CONTENT TYPE ELEMENTS AND EXAMPLES
 
-## ACTIVITIES AND SUBACTIVITIES
+##ACTIVITIES AND SUBACTIVITIES
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
@@ -46,3 +46,37 @@ Take aim! XX archery ranges are managed by Wildlife Resources and offer various 
 
 ####PARENT ACTIVITY
 Shooting
+
+##SERVICES
+
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | A few words  | Product or Service to be purchased or delivered
+Teaser          |	25 Words     | Basic description of the Service
+Long Copy	      | 150 Words    | General information about the benefit of the product or Service
+Image(s)        | 1 Image      |	Photo illustrating the benefit of the service
+Phone Number(s) | ???          | Point(s) of contact for the public seeking the service
+External Link(s)| ???          | Linkage to outside vendor websites
+
+###EXAMPLE: VESSEL REGISTRATION
+
+####TITLE
+Vessel Registration
+
+####TEASER
+xxxxxxxxxx
+ 
+
+####LONG COPY
+xxxxxxxxxxxxx
+
+
+####IMAGE(S)
+(Boat on the water)
+
+
+####PHONE NUMBERS(S)
+1 (800) 366-2661
+
+####EXTERNAL LINK(S)
+https://www.ga.wildlifelicense.com/start.php
