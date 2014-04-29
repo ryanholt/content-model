@@ -124,7 +124,6 @@ A program often has an official name, and sometimes, a logo. Sometimes supportin
 - Juniors Acquiring Knowledge Ethics and Sportsmanship 
 - National Archery in the Schools Program 
 - Project Wild
-- Hunter Education
 
 ##MANAGEMENT
 
