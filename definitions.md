@@ -50,9 +50,19 @@ Paddling          | Canoeing<br>Kayaking<br>Rowboating
 Shooting          | Archery<br>Firearms
 Wildlife Watching | Birding
 
+##FACILITY
+
+A **facility** is any structure or building that offers specific or independent programming and activities. It has its own hours of operations and possibly its own staffing and/or a separate point of access. Facilities are listed independently on the website as well as part of larger Places. 
+
+###EXAMPLES INCLUDE: 
+- Firearms Range
+- Archery Range
+- Conference Center
+
+
 ##FEATURE
 
-A **feature** is any stand-alone facility, structure or part of the natural landscape that directly supports Wildlife Resources’ designated activities. These items can be represented on a map as an area, a line or a point/symbol/icon.
+A **feature** is any stand-alone structure or part of the natural landscape that directly supports Wildlife Resources’ designated activities. These items can be represented on a map as an area, a line or a point/symbol/icon.
 For the public, the promotion of these items on the website will help characterize the experience they will have on Wildlife Resources’ properties and also allow them to find locations that offer the features they desire.
 
 ###EXAMPLES INCLUDE:
