@@ -16,13 +16,13 @@ Parent Activity | 1 Reference  | Reference to the parent *Activity* for *Subacti
 Shooting
 
 ####TEASER
-Whether you are preparing for hunting season or enjoy honing this skill, you'll find a variety of programs, ranges and other opportunities in Georgia. 
+Great care is given to providing firearms/archery ranges, educational programs and other resources in Georgia for all shooting enthusiasts, ompetitors and hunters.
 
 ####LONG COPY
-Patience, concentration and opportunity. Georgia offers shooting enthusiasts multiple ways to develop, practice and master this sport–from public archery and firearms ranges to educational programs. Most ranges managed by Wildlife Resources require a license, pass or fee. Archery and firearms ranges are located on Wildlife Management Areas and other public lands and are generally open year-round. Special educational programs are offered include Shooting Sports Education Center at Georgia Southern University, Family Day at the Range, Youth Hunter Education Challenge, National Archery in Schools Program, archery summer camps and more.
+The shooting sports -- indoor/outdoor range shooting, archery, hunting -- are lifelong activities that promote outdoor recreation, good health, discipline, safety, and an appreciation of conservation. Shooting sports generate more than $478 million in economic impact for Georgia each year. Taxes paid on equipment and ammunition contribute to state and federal conservation efforts for wildlife and wild lands -- approximately $10 million annually in Georgia alone. 
 
 ####IMAGE(S)
-(Shooters at the Range)
+(Female with safety glasses and ear plugs in proper shooting stance at a range)
 
 ####PARENT ACTIVITY
 NA
@@ -33,11 +33,11 @@ NA
 Archery
 
 ####TEASER
-Archery is one of the fastest growing sports in the United States. From the beginner to the advanced, a variety of ranges and programs are available to challenge and develop your skill. 
+Archery is one of the fastest growing sports in the United States and highly popular in Georgia, thanks to statewide access to practice ranges, public lands and educational programs.  
  
 
 ####LONG COPY
-Take aim! Ten archery ranges are managed by Wildlife Resources and offer various formats such as 3-D, static and bulleye. Most ranges require a license, pass or fee. Special programs offered include specialty quota hunts, National Archery in the Schools Program, archery summer camps and more. 
+A lifelong activity, archery promotes outdoor recreation, good health, discipline, safety and an appreciation of conservation. 
 
 
 ####IMAGE(S)
