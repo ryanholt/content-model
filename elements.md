@@ -64,11 +64,12 @@ External Link(s)| ???          | Linkage to outside vendor websites
 Vessel Registration
 
 ####TEASER
-xxxxxxxxxx
+Vessel registration is required by law for use on Georgia waters. Affordable and convenient, registration includes three FREE days of fishing for the boat owner!
  
 
 ####LONG COPY
-xxxxxxxxxxxxx
+Vessel registratons extend for a period of three calendar years and expire the last day of the vessel owner's month of birth in the last year of registration. Speaking of birthdays ... the boat owner is entitled to three FREE days of fishing from the State of Georgia. Your valid registration serves as a state fishing license on the day of your birthday and two days afterward, each of the three years of the registration. 
+Registration fees are based upon the length of boat. Current fees are $15 for boats , 16 fee in length; $36 for boats 16 feet to < 26 feet in length; $90 for boats 26 feet to <40 feet in length; and $150 for boats 40 feet and over. 
 
 
 ####IMAGE(S)
@@ -80,3 +81,73 @@ xxxxxxxxxxxxx
 
 ####EXTERNAL LINK(S)
 https://www.ga.wildlifelicense.com/start.php
+
+
+##PLACE
+
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | A few words  | Product or Service to be purchased or delivered
+Type            | 5 Words      | Designated category
+Teaser          |	25 Words     | Basic description of the Service
+Long Copy	      | 150 Words    | General information about the benefit of the product or Service
+Image(s)        | 1 Image      |	Photo illustrating the benefit of the service
+Image Caption   | 25 Words     | Explanation of the photo
+Map Preview     | NA           | Georgia state map with Place highlighted
+Address         | 25 Words     | Closest street address for the entrance to the Place or closest cross streets with minimal directions to entrance
+Contact Info    | 10 Words     | Best way to reach a customer contract for this Place: phone, email
+Directions      | 50 Words     | A link to Google Map directions for the entrance is preferred. If inaccurate or vague, provide written directions for the nearest town of highway
+Hours           | 25 Words     | Explanation of when the public can access the Place on a daily, weekly or seasonal basis
+Coordinates     | 5 Words      | Geographic coordinates to find the Placee via GPS
+
+###EXAMPLE: Walton Public Dove Field
+
+####TITLE
+Walton Public Dove Field
+
+####TYPE
+Wildlife Management Area
+
+####TEASER
+This 200-acre field is intensively managed for dove season, kids' huntings events and archery. 
+
+####LONG COPY
+Located in Walton County, the Public Dove Field & Archery Range is adjacent to the Wildlife Resources Division headquarters and Conservation Center, and Fisheries hatchery. The kid-friendly archery range features bulleye targets and 3-D targets such as game animals and a ferocious T-Rex. Besides dove hunting, the property has extensive trails and dog training areas. Before you visit, be sure to review Dove Season regulations and/or Archery Range rules. You must possess one of the following licenses or passes to use the property: 3-day hunting/fishing license, Wildlife Management Area License, Sportsman's License, Lifetime License, Honorary License or Georgia Outdoor Recreational Pass. During weekday business hours, you can purchase your license on site. 
+
+####IMAGE
+(Kids' hunting at Walton)
+
+####IMAGE CAPTION
+The dove field offers annual hunting opportunities for parent-child hunts.
+
+####MAP PREVIEW
+(State map with Walton highlighted)
+
+####ADDRESS
+2065 US Highway 278, SE, Social Circle GA 30025
+
+####CONTACT INFO
+770-918-6416
+
+####DIRECTIONS
+(Link to Google Maps)
+
+####HOURS
+Range open everyday during daylight hours. The dove field is open year-round with the exception of limited access during special hunts.
+
+####COORDINATES
+(coordinates)
+
+
+##EVENT
+
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | A few words  | Product or Service to be purchased or delivered
+Teaser          |	25 Words     | Basic description of the Service
+Long Copy	      | 150 Words    | General information about the benefit of the product or Service
+Image(s)        | 1 Image      |	Photo illustrating the benefit of the service
+Phone Number(s) | ???          | Point(s) of contact for the public seeking the service
+External Link(s)| ???          | Linkage to outside vendor websites
+
+###EXAMPLE: VESSEL REGISTRATION
