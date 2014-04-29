@@ -19,7 +19,7 @@ Shooting
 Whether you are preparing for hunting season or enjoy honing this skill, you'll find a variety of programs, ranges and other opportunities in Georgia. 
 
 ####LONG COPY
-Patience, concentration and opportunity. Georgia offers shooting enthusiasts multiple ways to develop, practice and master this sport–from public archery and firearms ranges to educational programs. Most ranges managed by Wildlife Resources  require a Wildlife Management Area license, Georgia Outdoor Recreational Pass or other fee. These fees help offset the cost of maintenance and upkeep on the ranges.  Archery and firearms ranges are located on Wildlife Management Areas and other public lands and are generally open year-round. Fees help offset the maintenance and upgrades on these facilities. Special educational programs offered include Shooting Sports Education Center at Georgia Southern University, Family Day at the Range, Youth Hunter Education Challenge, National Archery in Schools Program, archery summer camps and more.
+Patience, concentration and opportunity. Georgia offers shooting enthusiasts multiple ways to develop, practice and master this sport–from public archery and firearms ranges to educational programs. Most ranges managed by Wildlife Resources require a license, pass or fee. Archery and firearms ranges are located on Wildlife Management Areas and other public lands and are generally open year-round. Special educational programs are offered include Shooting Sports Education Center at Georgia Southern University, Family Day at the Range, Youth Hunter Education Challenge, National Archery in Schools Program, archery summer camps and more.
 
 ####IMAGE(S)
 (Shooters at the Range)
@@ -37,7 +37,7 @@ Archery is one of the fastest growing sports in the United States. From the begi
  
 
 ####LONG COPY
-Take aim! XX archery ranges are managed by Wildlife Resources and offer various formats such as 3-D, static and bulleye. Most ranges require a Wildlife Management Area license, Georgia Outdoor Recreational Pass or other fee. These fees help offset the cost of maintenance and upkeep on the ranges. Special programs offered include specialty quota hunts, National Archery in the Schools Program, archery summer camps and more. 
+Take aim! Ten archery ranges are managed by Wildlife Resources and offer various formats such as 3-D, static and bulleye. Most ranges require a license, pass or fee. Special programs offered include specialty quota hunts, National Archery in the Schools Program, archery summer camps and more. 
 
 
 ####IMAGE(S)
@@ -57,6 +57,7 @@ Long Copy	      | 150 Words    | General information about the benefit of the pr
 Image(s)        | 1 Image      |	Photo illustrating the benefit of the service
 Phone Number(s) | ???          | Point(s) of contact for the public seeking the service
 External Link(s)| ???          | Linkage to outside vendor websites
+Cost            | Table        | Breakdown of service levels and corresponding price
 
 ###EXAMPLE: VESSEL REGISTRATION
 
@@ -66,10 +67,8 @@ Vessel Registration
 ####TEASER
 Vessel registration is required by law for use on Georgia waters. Affordable and convenient, registration includes three FREE days of fishing for the boat owner!
  
-
 ####LONG COPY
 Vessel registratons extend for a period of three calendar years and expire the last day of the vessel owner's month of birth in the last year of registration. Speaking of birthdays ... the boat owner is entitled to three FREE days of fishing from the State of Georgia. Your valid registration serves as a state fishing license on the day of your birthday and two days afterward, each of the three years of the registration. 
-Registration fees are based upon the length of boat. Current fees are $15 for boats , 16 fee in length; $36 for boats 16 feet to < 26 feet in length; $90 for boats 26 feet to <40 feet in length; and $150 for boats 40 feet and over. 
 
 
 ####IMAGE(S)
@@ -81,6 +80,9 @@ Registration fees are based upon the length of boat. Current fees are $15 for bo
 
 ####EXTERNAL LINK(S)
 https://www.ga.wildlifelicense.com/start.php
+
+####COST
+(Table showing dollar amount compared to length and type of vessel)
 
 
 ##PLACE
@@ -168,15 +170,15 @@ Workshops are open to interested teachers or others volunteering at existing NAS
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Headline	       | 25 words     | Title of press release; primary topic
+Title   	       | 25 words     | Headline of press release; primary topic
 Subhead         |	25 Words     | Secondary point of press release
-Teaser Copy	    | 150 Words    | Summary of main points, call to action
+Teaser     	    | 150 Words    | Summary of main points, call to action
 Long Copy       | 1000 Words   |	Complete text of press release except: no dateline, end marks or free-standing links
 
 
 ###EXAMPLE: State Archery Tournament - 36 Georgia Schools Qualify for Nationals
 
-####HEADLINE
+####TITLE
 State Archery Tournament - 36 Georgia Schools Qualify for Nationals
 
 ####SUBHEAD
@@ -204,14 +206,14 @@ Complete team and individual results are available online at www.nasptournaments
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 words     | Official name 
+Title	          | 10 Words     | Official name 
 Teaser          |	25 Words     | Short explanation of purpose
 Long Copy	      | 150 Words    | General information about goals, audience and execution
 Logo            | 1 Image      |	Graphic
 Image           | 1 Image      | Photo of work or activity associated with Program
-Resources       | document     | PDF or other document that provides deeper content
-Video           | link         | Link to appropriate YouTube video
-External Link   | link         | Parent or umbrella organization for the Program
+Resource(s)     | Document     | PDF or other document that provides deeper content
+Video(s)        | Link(s)      | Link to appropriate YouTube video
+External Link   | Link         | Parent or umbrella organization for the Program
 
 ###EXAMPLE: National Archery in the Schools Program
 
@@ -228,15 +230,15 @@ Educators report that the National Archery in the Schools Program engages the un
 ####LOGO
 (NASP national logo)
 
-####Image
+####IMAGE
 (students at NASP tournament)
 
-####Resources
+####RESOURCES(S)
 (downloaded PDF of press coverage)
 
-####Video
+####VIDEO(S)
 (links to Wildlife Resources' YouTube channel videos)
 
-####External Link
+####EXTERNAL LINK(S)
 naspschool.org
 
