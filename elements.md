@@ -199,3 +199,44 @@ All division winning teams automatically qualify for nationals, while several ot
 Archery teams that competed in the Georgia-NASP state tournament this week had to win their division at one of seven regional tournaments in February and March of this year or shoot a regional score high enough to be selected as a wildcard team. More than 1,500 student archers competed in the regional tournaments.  
 Complete team and individual results are available online at www.nasptournaments.com. For more information on NASP, which is available to all schools in 4th-12 grade that become certified in the program, go to NASP (link).
 
+
+##PROGRAM
+
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | 10 words     | Official name 
+Teaser          |	25 Words     | Short explanation of purpose
+Long Copy	      | 150 Words    | General information about goals, audience and execution
+Logo            | 1 Image      |	Graphic
+Image           | 1 Image      | Photo of work or activity associated with Program
+Resources       | document     | PDF or other document that provides deeper content
+Video           | link         | Link to appropriate YouTube video
+External Link   | link         | Parent or umbrella organization for the Program
+
+###EXAMPLE: National Archery in the Schools Program
+
+####TITLE
+National Archery in the Schools Program
+
+####TEASER
+The National Archery in Schools Program, or NASP, engages students in a fun extracurricular activity that emphasizes safety, concentration and competition. Georgia has a highly active program with offerings in elementary, middle and high schools throughout the state. 
+
+####LONG COPY
+The National Archery in the Schools Program is an approved physical education program within Georgia and has been in the state since 2003. Click here to see number of Georgia schools by county that participate.  The program began in Kentucky in 2002 and there are now 47states as well as Washington DC, 5 Canadian provinces and 6 countries (Australia, New Zealand, South Africa, Canada, USA, Zamibia), with over 7 million students completing the program. Click Here to download the NASP program brochure. 
+Educators report that the National Archery in the Schools Program engages the unengaged; as students who drop out of school have indicated that they were not involved in extracurricular activities. This program is unique in that it crosses gender and strength lines, putting middle school children on an even playing field within their physical education class. In doing this, many children are able to succeed in a sport for the first time.
+
+####LOGO
+(NASP national logo)
+
+####Image
+(students at NASP tournament)
+
+####Resources
+(downloaded PDF of press coverage)
+
+####Video
+(links to Wildlife Resources' YouTube channel videos)
+
+####External Link
+naspschool.org
+
