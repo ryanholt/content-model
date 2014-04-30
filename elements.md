@@ -37,11 +37,11 @@ Archery is one of the fastest growing sports in the United States and highly pop
  
 
 ####LONG COPY
-A lifelong activity, archery promotes outdoor recreation, good health, discipline, safety and an appreciation of conservation. 
+A lifelong activity, archery promotes outdoor recreation, good health, discipline, safety and an appreciation of conservation. Approximately XX,XXX people engage in bow hunting each year, and contribute more than $XX million to the Georgia through their purchases and travel. Taxes paid on equipment contribute to state and federal conservation efforts for wildlife adn wild lands -- approximately $X million annually in Georgia alone.
 
 
 ####IMAGE(S)
-(Kids with instructor at the range)
+(Kids demonstrating safety, with instructor at the range)
 
 
 ####PARENT ACTIVITY
@@ -126,10 +126,10 @@ The dove field offers annual hunting opportunities for parent-child hunts.
 (State map with Walton highlighted)
 
 ####ADDRESS
-2065 US Highway 278, SE, Social Circle GA 30025
+2065 US Highway 278 SE, Social Circle GA 30025
 
 ####CONTACT INFO
-770-918-6416
+(770) 918-6416
 
 ####DIRECTIONS
 (Link to Google Maps)
