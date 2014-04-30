@@ -290,39 +290,80 @@ The program provides Junior Olympic Archery Development-style target archery tra
 ####LINK
 naspschool.org
 
-##PROGRAM
+##HOW-TO
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 Words     | Official name 
-Teaser          |	25 Words     | Short explanation of purpose
-Long Copy	      | 150 Words    | General information about goals, audience and execution
-Logo            | 1 Image      |	Graphic
-Image           | 1 Image      | Photo of work or activity associated with Program
-Link            | Link         | Umbrella organization or promotional resource
+Title	          | 10 Words     | Instructions headline; includes "How to ..." 
+Teaser          |	25 Words     | Short explanation of what you will learn
+Long Copy	      | 1000 Words   | Step-by-step instructions
+Image(s)        | Photo/Graphic| Demonstrates directions  
 
-###EXAMPLE: National Archery in the Schools Program
+
+###EXAMPLE: HOW TO EQUIP YOUR SCHOOL FOR NASP
 
 ####TITLE
-National Archery in the Schools Program
+How to Equip Your School for NASP
 
 ####TEASER
-Georgia's NASP is active in XX counties and engages students in a fun extracurricular activity that emphasizes safety, concentration and competition. 
+Before you can launching NASP at your institute, you need to order the basic equipment kit for your students. Special discounts are available high-quality, teacher-approved equipment. 
 
 ####LONG COPY
-The National Archery in the Schools Program (NASP) is an approved physical education program within Georgia and has been in the state since 2003. Now in 47 states and seven countries, more than seven million students complete in the program.   
-Educators report that the NASP engages the unengaged. It is unique in that it crosses gender and strength lines, putting children on an even playing field within their physical education class. In doing this, many children succeed in a sport for the first time. Participating schools have experienced spin-off benefits as well, including reduced behavior problems and improved attendance.
+Before you introduce archery to your students, you want to equipment that is time-tested for heavy use with children. 
 
-The program provides Junior Olympic Archery Development-style target archery training in K-12 physical education classes. The core content covers history, safety, technique, equipment, mental concentration and self-improvement. Before presenting the two-week archery course, teachers undergo a NASP certification process. The program's safety record has been perfect. There has not been a single accident in any of the schools while participating in the archery program. 
+Step 1: Secure funding. 
+Following are possible sources for financial assistance:
+- School Districts general fund: When the administrators are introduced to this program and see how this is program has positively influenced students' attendance, behavior, self-esteem, confidence, on-task behavior, they are often willing to appropriate fundis. 
+- 21st Century Community Learning Centers Program- http://public.doe.k12.ga.us
+- 21st Century Grants- www.ed.gov
+- Gear-Up Grants- www.ed.gov
+- GON Network
+- National Wild Turkey Federation
+- Ducks Unlimited 
+- Local Merchants sponsoring equipment with their logos on the equipment
+- After-School Alliances grants
+- Rotary Clubs:  Their International Program has adopted NASP as a great program to support-   www.rotary.org
+- Sportsmans Clubs
+- BASS Clubs
+- Parents/Citizens involved in fund raising activities
+- Selling Candy, car washes, donations on quilts, donations on a bow
+- Local archery shop or Sportsmans Club hosting a 3-D or indoor tournament all proceeds going  to local school for purchasing archery equipment
+- School hosting an archery tournament for community
+- Grants that target disadvantages students
+- Special needs student funds from local district
+Currently $67+ million of grant money is available through various physical education grants that directly fit this program. District grant writers can assist with applying for the funds. The disadvantage, however, is that the grants may take six months to a year to be awarded.
 
-####LOGO
-(NASP national logo)
+Step 2: Properly outfit your school with NASP's basic archery kit. 
+The NASP basic archery kit contains the following:
+    10 right-handed Genesis bows
+    2 left handed Genesis bows
+    5 targets
+    5-dozen aluminum arrows
+    1 backstop safety net
+    1 equipment repair kit
+    1 bow rack
+
+Complete the appropriate order form and tax exempt form to receive a discounted rate:
+    NASP Public School/Government Order Form
+    NASP Non-profit/Private School Order Form
+    NASP Supplemental Order Form
+    Federal Excise Tax Exemption Form - for use by states, local government and public schools.
+
+Step 3: Keep your knowledge, methods and equipment up to date. 
+Stay current on the latest news, teaching tools and other resources from NASP.
+
+Training Banners - Order form
+- Banner 1: Draw Length 
+- Banner 2: 11 Steps to Archery Success
+
+Bow Storage Cases - Order form
+
+Easton Replacement Parts - Order form
+
+Proper installation of a 'tied on string nock' - NASP
 
 ####IMAGE
-(students at NASP tournament)
-
-####LINK
-naspschool.org
+(Basic kit contents)
 
 
 ##MANAGEMENT
