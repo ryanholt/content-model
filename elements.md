@@ -37,7 +37,7 @@ Archery is one of the fastest growing sports in the United States and highly pop
  
 
 ####LONG COPY
-A lifelong activity, archery promotes outdoor recreation, good health, discipline, safety and an appreciation of conservation. Approximately XX,XXX people engage in bow hunting each year, and contribute more than $XX million to the Georgia through their purchases and travel. Taxes paid on equipment contribute to state and federal conservation efforts for wildlife adn wild lands -- approximately $X million annually in Georgia alone.
+A lifelong activity, archery promotes outdoor recreation, good health, discipline, safety and an appreciation of conservation. Approximately XX,XXX people engage in bow hunting each year, and contribute more than $XX million to the Georgia through their purchases and travel. Taxes paid on equipment contribute to state and federal conservation efforts for wildlife and wild lands -- approximately $X million annually in Georgia alone.
 
 
 ####IMAGE(S)
@@ -89,7 +89,7 @@ https://www.ga.wildlifelicense.com/start.php
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | A few words  | Product or Service to be purchased or delivered
+Title	          | 5 words      | Product or Service to be purchased or delivered
 Type            | 5 Words      | Designated category
 Teaser          |	25 Words     | Basic description of the Service
 Long Copy	      | 150 Words    | General information about the benefit of the product or Service
