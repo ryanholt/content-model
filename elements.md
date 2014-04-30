@@ -100,12 +100,13 @@ Address         | 25 Words     | Closest street address for the entrance to the 
 Contact Info    | 10 Words     | Best way to reach a customer contract for this Place: phone, email
 Directions      | 50 Words     | A link to Google Map directions for the entrance is preferred. If inaccurate or vague, provide written directions for the nearest town of highway
 Hours           | 25 Words     | Explanation of when the public can access the Place on a daily, weekly or seasonal basis
-Coordinates     | 5 Words      | Geographic coordinates to find the Placee via GPS
+Coordinates     | 4 Words      | Latitude; Longitude
+Property Map    | Document     | PDF map for downloading and printing 
 
 ###EXAMPLE: Walton Public Dove Field
 
 ####TITLE
-Walton Public Dove Field
+Walton Public Dove Field & Archery Range
 
 ####TYPE
 Wildlife Management Area
@@ -114,7 +115,7 @@ Wildlife Management Area
 This 200-acre field is intensively managed for dove season, kids' huntings events and archery. 
 
 ####LONG COPY
-Located in Walton County, the Public Dove Field & Archery Range is adjacent to the Wildlife Resources Division headquarters and Conservation Center, and Fisheries hatchery. The kid-friendly archery range features bulleye targets and 3-D targets such as game animals and a ferocious T-Rex. Besides dove hunting, the property has extensive trails and dog training areas. Before you visit, be sure to review Dove Season regulations and/or Archery Range rules. You must possess one of the following licenses or passes to use the property: 3-day hunting/fishing license, Wildlife Management Area License, Sportsman's License, Lifetime License, Honorary License or Georgia Outdoor Recreational Pass. During weekday business hours, you can purchase your license on site. 
+Located in Walton County, the Public Dove Field & Archery Range is adjacent to the Wildlife Resources Division headquarters and Conservation Center where you can purchase sporting licenses and outdoor passes during business hours. 
 
 ####IMAGE
 (Kids' hunting at Walton)
@@ -138,7 +139,10 @@ The dove field offers annual hunting opportunities for parent-child hunts.
 Range open everyday during daylight hours. The dove field is open year-round with the exception of limited access during special hunts.
 
 ####COORDINATES
-(coordinates)
+Latitude, Longitude: 33.62412, -83.68029
+
+####PROPERTY MAP
+(PDF map that shows features, amenities)
 
 
 ##EVENT
@@ -151,16 +155,21 @@ Long Copy	      | 150 Words    | General information about the event, who it is 
 Image(s)        | 1 Image      |	Photo of people engaged in Activity/Subactivity
 
 
-###EXAMPLE: NASP TRAINING WORKSHOPS
+###EXAMPLE: Basic Archery Instructor Workshop/NASP Teacher Workshop
 
 ####TITLE
-NASP Training Workshop
+Basic Archery Instructor Workshop/NASP Teacher Workshop
 
 ####TEASER
-Basic Archery Instructor Workshops/NASP Teacher Workshops
+These required workshops train teachers to become archery instructors for the National Archery in Schools Program. 
 
 ####LONG COPY
-Workshops are open to interested teachers or others volunteering at existing NASP certified schools or schools interested in becoming NASP certified.  NASP may be taught in both physical education and agriculture classes.  Schools do not need to be NASP certified in order for you to attend.  This workshop will provide teachers and others certification as NASP instructors.  Registration is required.
+Workshops are open to interested teachers or others volunteering at existing NASP certified schools or schools interested in becoming NASP certified. NASP may be taught in both physical education and agriculture classes. Schools do not need to be NASP-certified for you to attend. This workshop will provide teachers and others certification as NASP instructors. After completing the course, you will know: 
+- (objective 1)
+- (objective 2)
+- (objective 3)
+
+Registration is required.
 
 ####IMAGE
 (competition shooting station with instructor)
@@ -199,7 +208,6 @@ Winners at the 2014 NASP-Georgia State Tournament include:
     Bay Creek Elementary School in Loganville, which finished third in the national last year, won the elementary division title with a score of 3,158. Parker McGaughey led Bay Creek with a 277. Lake Park (Albany) Elementary’s Nathan Masters won the elementary male division with a score of 281, while Liberty (Toccoa) Elementary’s Skylar McFarlin fired a 284 to win the elementary female division. 
 All division winning teams automatically qualify for nationals, while several other schools met qualifying scores to reach this year’s National Tournament in May. A “team” consists of 12 to 24 shooters with at least four members of the opposite gender. Over 43 percent of the state tournament field was female. Individuals finishing in the top 10 at state automatically qualify for the national tournament. 
 Archery teams that competed in the Georgia-NASP state tournament this week had to win their division at one of seven regional tournaments in February and March of this year or shoot a regional score high enough to be selected as a wildcard team. More than 1,500 student archers competed in the regional tournaments.  
-Complete team and individual results are available online at www.nasptournaments.com. For more information on NASP, which is available to all schools in 4th-12 grade that become certified in the program, go to NASP (link).
 
 
 ##PROGRAM
@@ -211,9 +219,7 @@ Teaser          |	25 Words     | Short explanation of purpose
 Long Copy	      | 150 Words    | General information about goals, audience and execution
 Logo            | 1 Image      |	Graphic
 Image           | 1 Image      | Photo of work or activity associated with Program
-Resource(s)     | Document     | PDF or other document that provides deeper content
-Video(s)        | Link(s)      | Link to appropriate YouTube video
-External Link   | Link         | Parent or umbrella organization for the Program
+Link            | Link         | Umbrella organization or promotional resource
 
 ###EXAMPLE: National Archery in the Schools Program
 
@@ -221,11 +227,13 @@ External Link   | Link         | Parent or umbrella organization for the Program
 National Archery in the Schools Program
 
 ####TEASER
-The National Archery in Schools Program, or NASP, engages students in a fun extracurricular activity that emphasizes safety, concentration and competition. Georgia has a highly active program with offerings in elementary, middle and high schools throughout the state. 
+Georgia's NASP is active in XX counties and engages students in a fun extracurricular activity that emphasizes safety, concentration and competition. 
 
 ####LONG COPY
-The National Archery in the Schools Program is an approved physical education program within Georgia and has been in the state since 2003. Click here to see number of Georgia schools by county that participate.  The program began in Kentucky in 2002 and there are now 47states as well as Washington DC, 5 Canadian provinces and 6 countries (Australia, New Zealand, South Africa, Canada, USA, Zamibia), with over 7 million students completing the program. Click Here to download the NASP program brochure. 
-Educators report that the National Archery in the Schools Program engages the unengaged; as students who drop out of school have indicated that they were not involved in extracurricular activities. This program is unique in that it crosses gender and strength lines, putting middle school children on an even playing field within their physical education class. In doing this, many children are able to succeed in a sport for the first time.
+The National Archery in the Schools Program (NASP) is an approved physical education program within Georgia and has been in the state since 2003. Now in 47 states and seven countries, more than seven million students complete in the program.   
+Educators report that the NASP engages the unengaged. It is unique in that it crosses gender and strength lines, putting children on an even playing field within their physical education class. In doing this, many children succeed in a sport for the first time. Participating schools have experienced spin-off benefits as well, including reduced behavior problems and improved attendance.
+
+The program provides Junior Olympic Archery Development-style target archery training in K-12 physical education classes. The core content covers history, safety, technique, equipment, mental concentration and self-improvement. Before presenting the two-week archery course, teachers undergo a NASP certification process. The program's safety record has been perfect. There has not been a single accident in any of the schools while participating in the archery program. 
 
 ####LOGO
 (NASP national logo)
@@ -233,12 +241,70 @@ Educators report that the National Archery in the Schools Program engages the un
 ####IMAGE
 (students at NASP tournament)
 
-####RESOURCES(S)
-(downloaded PDF of press coverage)
+####LINK
+naspschool.org
 
-####VIDEO(S)
-(links to Wildlife Resources' YouTube channel videos)
+##PROGRAM
 
-####EXTERNAL LINK(S)
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | 10 Words     | Official name 
+Teaser          |	25 Words     | Short explanation of purpose
+Long Copy	      | 150 Words    | General information about goals, audience and execution
+Logo            | 1 Image      |	Graphic
+Image           | 1 Image      | Photo of work or activity associated with Program
+Link            | Link         | Umbrella organization or promotional resource
+
+###EXAMPLE: National Archery in the Schools Program
+
+####TITLE
+National Archery in the Schools Program
+
+####TEASER
+Georgia's NASP is active in XX counties and engages students in a fun extracurricular activity that emphasizes safety, concentration and competition. 
+
+####LONG COPY
+The National Archery in the Schools Program (NASP) is an approved physical education program within Georgia and has been in the state since 2003. Now in 47 states and seven countries, more than seven million students complete in the program.   
+Educators report that the NASP engages the unengaged. It is unique in that it crosses gender and strength lines, putting children on an even playing field within their physical education class. In doing this, many children succeed in a sport for the first time. Participating schools have experienced spin-off benefits as well, including reduced behavior problems and improved attendance.
+
+The program provides Junior Olympic Archery Development-style target archery training in K-12 physical education classes. The core content covers history, safety, technique, equipment, mental concentration and self-improvement. Before presenting the two-week archery course, teachers undergo a NASP certification process. The program's safety record has been perfect. There has not been a single accident in any of the schools while participating in the archery program. 
+
+####LOGO
+(NASP national logo)
+
+####IMAGE
+(students at NASP tournament)
+
+####LINK
+naspschool.org
+
+
+##MANAGEMENT
+
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | 10 Words     | Official name 
+Teaser          |	25 Words     | Short explanation of purpose
+Long Copy	      | 150 Words    | General information about goals, audience and execution
+Image           | 1 Image      | Photo of work or activity associated with Program
+
+###EXAMPLE: Shooting Sports Program
+
+####TITLE
+Shooting Sports Program
+
+####TEASER
+The Shooting Sports Program of the Wildlife Resources Division is focused on promoting this lifelong activity -- archery, target shooting, hunting -- for youth and families.
+
+####LONG COPY
+Supported by the purchase of sporting licenses, the Shooting Sports Program seeks to cultivate skill and enjoyment while teaching responsibility, ethics and conservation values in Georgia's youth. This is achieved through a continuum of experiences and opportunities in the community and schools. Programs partner with parents, educators, manufacturers and sporting associations to make the sport affordable, effective and accessible to all. Annually, the Shooting Sports Program serves XX,XXX children. 
+
+####LOGO
+(NASP national logo)
+
+####IMAGE
+(students at NASP tournament)
+
+####LINK
 naspschool.org
 
