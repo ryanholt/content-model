@@ -89,12 +89,11 @@ https://www.ga.wildlifelicense.com/start.php
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 5 words      | Product or Service to be purchased or delivered
+Title	          | 10 words     | Official name
 Type            | 5 Words      | Designated category
-Teaser          |	25 Words     | Basic description of the Service
-Long Copy	      | 150 Words    | General information about the benefit of the product or Service
-Image(s)        | 1 Image      |	Photo illustrating the benefit of the service
-Image Caption   | 25 Words     | Explanation of the photo
+Teaser          |	25 Words     | Basic description 
+Long Copy	      | 150 Words    | General information 
+Image(s)        | 1 Image      |	Photo of Activity at Place
 Map Preview     | NA           | Georgia state map with Place highlighted
 Address         | 25 Words     | Closest street address for the entrance to the Place or closest cross streets with minimal directions to entrance
 Contact Info    | 10 Words     | Best way to reach a customer contract for this Place: phone, email
@@ -120,9 +119,6 @@ Located in Walton County, the Public Dove Field & Archery Range is adjacent to t
 ####IMAGE
 (Kids' hunting at Walton)
 
-####IMAGE CAPTION
-The dove field offers annual hunting opportunities for parent-child hunts.
-
 ####MAP PREVIEW
 (State map with Walton highlighted)
 
@@ -136,13 +132,63 @@ The dove field offers annual hunting opportunities for parent-child hunts.
 (Link to Google Maps)
 
 ####HOURS
-Range open everyday during daylight hours. The dove field is open year-round with the exception of limited access during special hunts.
+Open year-round with the exception of limited access during special hunts.
 
 ####COORDINATES
 Latitude, Longitude: 33.62412, -83.68029
 
 ####PROPERTY MAP
 (PDF map that shows features, amenities)
+
+
+##FACILITY
+
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | 5 words      | Official of structure, building
+Type            | 5 Words      | Designated category
+Teaser          |	25 Words     | Basic description 
+Long Copy	      | 150 Words    | General information 
+Image(s)        | 1 Image      |	Photo of Activity at Facility
+Address         | 25 Words     | Closest street address for the Facility
+Contact Info    | 10 Words     | Best way to reach a customer contract for this Facility: phone, email
+Directions      | 50 Words     | A link to Google Map directions for the Facility is preferred. If inaccurate or vague, provide written directions from the Place entrance
+Hours           | 25 Words     | Explanation of when the public can access the Place on a daily, weekly or seasonal basis
+Place           | 10 Words     | Associated Place
+ 
+
+###EXAMPLE: Walton County Archery Range
+
+####TITLE
+Walton County Archery Range
+
+####TEASER
+This family-friendly archery range features 3-D and bulleyes targets. 
+
+####LONG COPY
+Draw back on a 3-D deer, bear or ferocious T-Rex! This family-friendly archery has XX, XXX-yard lanes and sports various lifesize targets as well as bulleyes. 
+
+####IMAGE
+(View down a shooting lane)
+
+####ADDRESS
+2065 US Highway 278 SE, Social Circle GA 30025
+
+####CONTACT INFO
+(770) 918-6416
+
+####DIRECTIONS
+(Link to Google Maps)
+
+####HOURS
+Open everyday during daylight hours
+
+####COORDINATES
+Latitude, Longitude: 33.62412, -83.68029
+
+####PROPERTY MAP
+(PDF map that shows features, amenities)
+
 
 
 ##EVENT
