@@ -366,6 +366,45 @@ Proper installation of a 'tied on string nock' - NASP
 (Basic kit contents)
 
 
+##ARTICLE
+
+Element         | Max Quantity | Description
+:-------------- | :----------- | :--------------
+Title	          | 10 Words     | Headline 
+Subhead         | 25 Words     | Secondary point 
+Byline          | 10 Words     | Full name, title of author
+Teaser          |	25 Words     | Short explanation of what you will learn
+Long Copy	      | 1000 Words   | Evergreen information
+Image(s)        | Photo/Graphic| Demonstrates topic  
+
+
+###EXAMPLE: TEACHERS RAVE ABOUT BENEFITS OF NASP
+
+####TITLE: Teachers Rave about Benefits of NASP
+
+####SUBHEAD: Embraced by 39 counties in Georgia, NASP improves student performance
+
+####BYLINE: Jennifer Pittman, Shooting Sports Coordinator
+
+####TEASER: Teacher accolades help tell the story of why so many students excel, not just on the practice range, but in the classroom as well. 
+
+####LONG COPY: Schools in 39 counties in Georgia have become certified to teach the National Archery in the Schools Program. In a questionnaire from Georgia's Wildlife Resources Division to teachers, the following comments were made about the physical education course:
+- The kids loved it.  There was an increase in student participation during the archery unit.
+- (The students) loved it!
+- (The students) were very excited about the program!
+ 
+In interviews with teachers, they report that: 
+- Educators enjoy the NASP program as it adds diversity and interest to the classroom. 
+- Archery teaches a life skill to PE students and this program complies with state and national PE standards. 
+- Teachers remark that the program within their school has improved school attendance, that student behavior is improved, that kids of all genders, sizes and abilities are having success, and that after-school archery clubs are forming. 
+- NASP addresses the problem that educators need new, effective ways to engage and teach their students. Educators enjoy the NASP program as it adds diversity and interest to the classroom. 
+- Archery in the Schools Program within Georgia is a wonderful program that introduces middle school kids to the sport of archery.  This sport crosses gender and strength lines, putting middle school children on an even playing field within their PE class.
+
+####IMAGE
+(photo of teachers in training)
+
+
+
 ##MANAGEMENT
 
 Element         | Max Quantity | Description
