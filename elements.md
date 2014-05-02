@@ -380,15 +380,20 @@ Image(s)        | Photo/Graphic| Demonstrates topic
 
 ###EXAMPLE: TEACHERS RAVE ABOUT BENEFITS OF NASP
 
-####TITLE: Teachers Rave about Benefits of NASP
+####TITLE:
+Teachers Rave about Benefits of NASP
 
-####SUBHEAD: Embraced by 39 counties in Georgia, NASP improves student performance
+####SUBHEAD:
+Embraced by 39 counties in Georgia, NASP improves student performance
 
-####BYLINE: Jennifer Pittman, Shooting Sports Coordinator
+####BYLINE:
+Jennifer Pittman, Shooting Sports Coordinator
 
-####TEASER: Teacher accolades help tell the story of why so many students excel, not just on the practice range, but in the classroom as well. 
+####TEASER:
+Teacher accolades help tell the story of why so many students excel, not just on the practice range, but in the classroom as well. 
 
-####LONG COPY: Schools in 39 counties in Georgia have become certified to teach the National Archery in the Schools Program. In a questionnaire from Georgia's Wildlife Resources Division to teachers, the following comments were made about the physical education course:
+####LONG COPY:
+Schools in 39 counties in Georgia have become certified to teach the National Archery in the Schools Program. In a questionnaire from Georgia's Wildlife Resources Division to teachers, the following comments were made about the physical education course:
 - The kids loved it.  There was an increase in student participation during the archery unit.
 - (The students) loved it!
 - (The students) were very excited about the program!
