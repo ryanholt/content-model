@@ -25,29 +25,25 @@ Public Meetings & Hearings
 
 Your opinion matters! Public participation is essential to the regulatory process. You have several ways to voice your thoughts on future hunting regulations: 
 
-* Attend public meetings to provide input rule proposals or regulations that are under development. 
-
-* Attend public hearings to comment on proposed regulations that the Board of Natural Resources has under consideration. 
-
-* Submit your comments via email, U.S. mail or telephone, if you can’t attend a meeting or hearing. 
+- Attend public meetings to provide input rule proposals or regulations that are under development. 
+- Attend public hearings to comment on proposed regulations that the Board of Natural Resources has under consideration. 
+- Submit your comments via email, U.S. mail or telephone, if you can’t attend a meeting or hearing. 
 
 
 ##COMPELLING
 
 Always answer the question: Why should I care? Keeping visitors engaged is paramount. Make your text personal and tell the reader what’s it for him/her. 
 
-Don’t
+###Don’t
 Follow the safety rules found in the handbook. 
 
-Do 
+###Do 
 Keep yourself and your family safe this boating season by remembering these simple steps.
 
-
-Don’t
+###Don’t
 School field trip groups may visit the Go Fish Education Center at a discounted per-child rate on Tuesdays through Thursdays from 9:30 a.m.-1:30 p.m. (trip length may vary depending on age level). Programming is aligned to the Georgia Performance Standards and may include a guided aquarium tour, interactive hands-on classroom lesson and a movie. Live fish and wildlife exhibits, fishing simulators, educational displays, and a theater offer several entry points for teaching conservation.
 
-Do   
-
+###Do
 Get your students excited about conservation! They can get eyeball to eyeball with hundreds of Georgia fishes in our aquarium, try their hand at fishing on a simulator, enjoy a movie about Georgia’s unique traditions and habitat, and learn important conservation lessons at numerous hands-on exhibits and/or with interactive classroom exercises. 
 
 Programming is aligned to the Georgia Performance Standards. School groups receive a discounted rate, Tuesday through Thursday, 9:30 a.m. to 1:30 p.m. 
@@ -55,22 +51,22 @@ Programming is aligned to the Georgia Performance Standards. School groups recei
 
 ##HOW TO PRESENT LINKED INFORMATION
 
-1.	Links should always be self-explanatory. If they are within text, the link should be labeled with the subject matter. They should not contain the actual url. 
+Links should always be self-explanatory. If they are within text, the link should be labeled with the subject matter. They should not contain the actual url. 
 
-Don’t
+###Don’t
 Details at www.georgiawildlife.com/conservation/support or (478) 994-1438.
 
-Do 
-Read more about how to support conservation efforts or call (478) 994-1438. 
+###Do 
+Read more about [how to support conservation efforts](http://www.georgiawildlife.com/conservation/support) or call (478) 994-1438. 
 
-2.	When linking to another page, provide only the subject matter, not instructions or further information that would require the visitor to toggle between the two pages. 
+When linking to another page, provide only the subject matter, not instructions or further information that would require the visitor to toggle between the two pages. 
 
-Don’t
+###Don’t
 Find a Kids Fishing Event
 Events throughout the year are shown on the WRD events calendar. Search the calendar to view events by date and location. Most events occur Apr. to Sept. each year. Click the "Show Calendar" button on the right of the screen to see events by month.
 The above explanation may require the visitor to remember the instructions or to return to this page n this example, the information is repeated on the linked page as well, making it a duplicated effort (and taking up valuable space).  
-Do
 
+###Do
 Find a Kids Fishing Event – by month, day or location
 
 
