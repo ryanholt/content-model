@@ -52,7 +52,7 @@ Wildlife Watching | Birding
 
 ##FACILITY
 
-A **facility** is any structure or building that offers specific or independent programming and activities. It has its own hours of operations and possibly its own staffing and/or a separate point of access. Facilities are listed independently on the website as well as part of larger Places. 
+A **facility** is any structure or building that offers specific or independent programming and activities. It has its own hours of operations and possibly its own staffing and/or a separate point of access. Facilities are listed independently on the website as well as part of some area listings. 
 
 ###EXAMPLES INCLUDE: 
 - Firearms Range
@@ -67,9 +67,7 @@ For the public, the promotion of these items on the website will help characteri
 
 ###EXAMPLES INCLUDE:
 
-- **A Type of Water-body:** Stream, River, Lake, Reservoir
 - **A Variety of Trail:** Nature Trail, Interpretive Trail, Equestrian
-- **A Kind of Shooting Facility:** Archery Range, Firearms Range
 - **A Class of Boat Ramp:** Large Ramp, Small Ramp, Hand Launch
 - **A Campground Designation:** Primitive Backcountry Campsite
 
@@ -87,9 +85,9 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 ##CALENDAR LISTING
 A **calendar listing** is a specific event on a specific day(s) and lives on the Global Calendar. Calendar listings may be classes, conferences, workshops, competitions, festivals, fairs, field days, camps or other organized events. They must be events open to the public or segment of the public that further the mission of Wildlife Resources. They may be organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
 
-Calendar listing provide specific instructions and information for attending the event, ie, the date, time, place, cost, reservation instructions, prerequisites, map, phone number/email, hosting organization and other details. 
+Calendar listings provide specific instructions and information for attending the event, ie, the date, time, place, cost, reservation instructions, prerequisites, map, phone number/email, hosting organization and other details. 
 
-###EXAMPLES: 
+###EXAMPLES INCLUDE: 
 - JAKEs Day at Charlie Elliott, May 5
 - Free Fishing Days, September 24-25
 - Hunter Education 10-hour course at WRCC next Saturday
@@ -99,9 +97,9 @@ Calendar listing provide specific instructions and information for attending the
 
 ##EVENT
 
-An **event** is a specially organized experience, open to the public or a segment of the public, on a regular or recurring basis. An event contributes to a larger strategy or initiative within Wildlife Resources. For instance, Hunter Education Courses achieve certain goals for the Hunter Retention/Recruitment program. An event needs a consistent, year-round presence on the website. While specific details are a Calendar Listing on the Global Calendar, an event contains generic information to pique the reader's interest -- purpose, activities, outcomes, photos, etc. An event is organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
+An **event** is a specially organized experience, open to the public or a segment of the public, on a regular or recurring basis. An event contributes to a larger strategy or initiative within Wildlife Resources. For instance, Hunter Education Courses achieve certain goals for the Hunter Retention/Recruitment program. An event needs a consistent, year-round presence on the website. While specific details are a Calendar Listing on the Global Calendar, an event contains generic information to pique the reader’s interest — purpose, activities, outcomes, photos, etc. An event is organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
 
-###EXAMPLES:
+###EXAMPLES INCLUDE:
 
 - JAKEs Day
 - Free Fishing Days
@@ -117,7 +115,7 @@ A **program** is an organized and structured effort, initiative, campaign or uni
 
 A program is not a Service. Programs often have Events or other ways to invite the public into its specific area of focus. 
 
-A program often has an official name, and sometimes, a logo. Sometimes supporting program are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website. Links to external sites should open in new windows to prevent losing the visitor. 
+A program often has an official name, and sometimes, a logo. Sometimes programs are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website.
 
 ###EXAMPLES INCLUDE:
 
@@ -127,8 +125,8 @@ A program often has an official name, and sometimes, a logo. Sometimes supportin
 
 ##MANAGEMENT
 
-**Management** is a large-scale operation or section within Wildlife Resources that directs ongoing conservation efforts. Not every operation is directly relevant to the public. At least one of the following questions should be answered "yes," before posting information on the website: 
-- Does the public need to know about the operation to continue to participate in a program, event or activity? (Think Sportfish Restoration Act -- info would help angler understand his/her contribution to conservation for the future)
+**Management** is a large-scale operation or section within Wildlife Resources that directs ongoing conservation efforts. Not every operation is directly relevant to the public. At least one of the following questions should be answered "yes," before posting information on the website:
+- Does the public need to know about the operation to continue to participate in a program, event or activity? (Think Sportfish Restoration Act — info would help angler understand his/her contribution to conservation for the future)
 - Does the agency need public support to continue the operation? (think Bobwhite Quail)
 - Does the operational staff regularly interface with the public? (think Game Management technicians and area managers)
 - Will the public witness the operations and need background to understand the strategies employed? (think Prescribed Fire or Stream Team)
