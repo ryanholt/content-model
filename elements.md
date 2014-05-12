@@ -16,10 +16,10 @@ Parent Activity | 1 Reference  | Reference to the parent *Activity* for *Subacti
 Shooting
 
 ####TEASER
-Great care is given to providing firearms/archery ranges, educational programs and other resources in Georgia for all shooting enthusiasts, ompetitors and hunters.
+Great care is given to providing firearms/archery ranges, educational programs and other resources in Georgia for all shooting enthusiasts, competitors and hunters.
 
 ####LONG COPY
-The shooting sports -- indoor/outdoor range shooting, archery, hunting -- are lifelong activities that promote outdoor recreation, good health, discipline, safety, and an appreciation of conservation. Shooting sports generate more than $478 million in economic impact for Georgia each year. Taxes paid on equipment and ammunition contribute to state and federal conservation efforts for wildlife and wild lands -- approximately $10 million annually in Georgia alone. 
+The shooting sports — indoor/outdoor range shooting, archery, hunting — are lifelong activities that promote outdoor recreation, good health, discipline, safety, and an appreciation of conservation. Shooting sports generate more than $478 million in economic impact for Georgia each year. Taxes paid on equipment and ammunition contribute to state and federal conservation efforts for wildlife and wild lands — approximately $10 million annually in Georgia alone. 
 
 ####IMAGE(S)
 (Female with safety glasses and ear plugs in proper shooting stance at a range)
@@ -37,7 +37,7 @@ Archery is one of the fastest growing sports in the United States and highly pop
  
 
 ####LONG COPY
-A lifelong activity, archery promotes outdoor recreation, good health, discipline, safety and an appreciation of conservation. Approximately XX,XXX people engage in bow hunting each year, and contribute more than $XX million to the Georgia through their purchases and travel. Taxes paid on equipment contribute to state and federal conservation efforts for wildlife and wild lands -- approximately $X million annually in Georgia alone.
+A lifelong activity, archery promotes outdoor recreation, good health, discipline, safety and an appreciation of conservation. Approximately XX,XXX people engage in bow hunting each year, and contribute more than $XX million to the Georgia through their purchases and travel. Taxes paid on equipment contribute to state and federal conservation efforts for wildlife and wild lands — approximately $X million annually in Georgia alone.
 
 
 ####IMAGE(S)
@@ -85,21 +85,21 @@ https://www.ga.wildlifelicense.com/start.php
 (Table showing dollar amount compared to length and type of vessel)
 
 
-##PLACE
+##AREA
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 words     | Official name
+Title	        | 10 words     | Official name
 Type            | 5 Words      | Designated category
-Teaser          |	25 Words     | Basic description 
-Long Copy	      | 150 Words    | General information 
-Image(s)        | 1 Image      |	Photo of Activity at Place
+Teaser          | 25 Words     | Basic description 
+Long Copy       | 150 Words    | General information 
+Image(s)        | 1 Image      | Photo of Activity at Area
 Map Preview     | NA           | Georgia state map with Place highlighted
-Address         | 25 Words     | Closest street address for the entrance to the Place or closest cross streets with minimal directions to entrance
-Contact Info    | 10 Words     | Best way to reach a customer contract for this Place: phone, email
+Address         | 25 Words     | Closest street address for the area entrance or closest cross streets with minimal directions to entrance 
+Phone Number    | 10 Words     | Best contact for a customer seeking information about the area
 Directions      | 50 Words     | A link to Google Map directions for the entrance is preferred. If inaccurate or vague, provide written directions for the nearest town of highway
 Hours           | 25 Words     | Explanation of when the public can access the Place on a daily, weekly or seasonal basis
-Coordinates     | 4 Words      | Latitude; Longitude
+Coordinates     | 1 Pair       | Latitude; Longitude
 Property Map    | Document     | PDF map for downloading and printing 
 
 ###EXAMPLE: Walton Public Dove Field
@@ -135,7 +135,7 @@ Located in Walton County, the Public Dove Field & Archery Range is adjacent to t
 Open year-round with the exception of limited access during special hunts.
 
 ####COORDINATES
-Latitude, Longitude: 33.62412, -83.68029
+33.62412, -83.68029
 
 ####PROPERTY MAP
 (PDF map that shows features, amenities)
@@ -145,13 +145,13 @@ Latitude, Longitude: 33.62412, -83.68029
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 5 words      | Official of structure, building
+Title	        | 5 words      | Official of structure, building
 Type            | 5 Words      | Designated category
-Teaser          |	25 Words     | Basic description 
-Long Copy	      | 150 Words    | General information 
-Image(s)        | 1 Image      |	Photo of Activity at Facility
+Teaser          | 25 Words     | Basic description 
+Long Copy       | 150 Words    | General information 
+Image(s)        | 1 Image      | Photo of Activity at Facility
 Address         | 25 Words     | Closest street address for the Facility
-Contact Info    | 10 Words     | Best way to reach a customer contract for this Facility: phone, email
+Contact Info    | 10 Words     | Best contact for a customer seeking facility information
 Directions      | 50 Words     | A link to Google Map directions for the Facility is preferred. If inaccurate or vague, provide written directions from the Place entrance
 Hours           | 25 Words     | Explanation of when the public can access the Place on a daily, weekly or seasonal basis
 Place           | 10 Words     | Associated Place
@@ -195,10 +195,10 @@ Latitude, Longitude: 33.62412, -83.68029
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 words     | Name of general event
-Teaser          |	25 Words     | Event purpose
-Long Copy	      | 150 Words    | General information about the event, who it is for, what they should expect
-Image(s)        | 1 Image      |	Photo of people engaged in Activity/Subactivity
+Title	        | 10 words     | Name of general event
+Teaser          | 25 Words     | Event purpose
+Long Copy       | 150 Words    | General information about the event, who it is for, what they should expect
+Image(s)        | 1 Image      | Photo of people engaged in Activity/Subactivity
 
 
 ###EXAMPLE: Basic Archery Instructor Workshop/NASP Teacher Workshop
@@ -225,10 +225,10 @@ Registration is required.
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title   	       | 25 words     | Headline of press release; primary topic
-Subhead         |	25 Words     | Secondary point of press release
-Teaser     	    | 150 Words    | Summary of main points, call to action
-Long Copy       | 1000 Words   |	Complete text of press release except: no dateline, end marks or free-standing links
+Title           | 25 words     | Headline of press release; primary topic
+Subhead         | 25 Words     | Secondary point of press release
+Teaser     	| 150 Words    | Summary of main points, call to action
+Long Copy       | 1000 Words   | Complete text of press release except: no dateline, end marks or free-standing links
 
 
 ###EXAMPLE: State Archery Tournament - 36 Georgia Schools Qualify for Nationals
@@ -243,13 +243,12 @@ Elementary, Middle and High School Students Prepare for National Archery in Scho
 Georgia’s young archers keep getting better and the scores keep going up. That was never more evident than at the recent eighth annual National Archery in the Schools Georgia State Tournament as 857 NASP archers from 44 schools competed at the Georgia National Fairgrounds in Perry. 
 
 ####LONG COPY
-"Georgia’s young archers keep getting better and the scores keep going up. That was never more evident than at the recent eighth annual National Archery in the Schools Georgia State Tournament as 857 NASP archers from 44 schools competed at the Georgia National Fairgrounds in Perry. 
+Georgia’s young archers keep getting better and the scores keep going up. That was never more evident than at the recent eighth annual National Archery in the Schools Georgia State Tournament as 857 NASP archers from 44 schools competed at the Georgia National Fairgrounds in Perry. 
 After more than 34,000 arrows were shot, Bagley Middle School from Chatsworth scored a state tournament record 3,348 team score and was crowned the overall highest scoring champion. 
 Thirty-six Georgia schools posted scores that may qualify for the NASP National Tournament scheduled to take place May 9-10 in Louisville, Kentucky. 
 The National Tournament will be held at the Kentucky Exposition Center with an expected nearly 11,000 archers from more than 40 states competing, making it the largest archery tournament in the world. NASP Nationals will register qualifying teams and individual archers until the two-day tournament is filled to capacity. 
 WINNING SCHOOLS AND STUDENTS  
-Winners at the 2014 NASP-Georgia State Tournament include:  
-    Bagley Middle out of Chatsworth shot a 3,348 to lead a field of 44 archery teams and more than 850 shooters from state-qualifying elementary, middle and high schools.  Bagley Middle featured middle school female division champion Sarah Parker, who arrowed a score of 291 (out of a perfect 300) to capture the overall high scoring trophy. Bagley was also home to Brady Talent, who shot a 285 to win the middle school male crown. 
+Winners at the 2014 NASP-Georgia State Tournament include: Bagley Middle out of Chatsworth shot a 3,348 to lead a field of 44 archery teams and more than 850 shooters from state-qualifying elementary, middle and high schools.  Bagley Middle featured middle school female division champion Sarah Parker, who arrowed a score of 291 (out of a perfect 300) to capture the overall high scoring trophy. Bagley was also home to Brady Talent, who shot a 285 to win the middle school male crown. 
     North Murray High School in Chatworth won the high school division championship with a score of 3,332, also a high school division record score at state. North Murray was led by high school male division winner Hunter Jennings and high school female division winner Haley Bagley. Both shot a 288. 
     Bay Creek Elementary School in Loganville, which finished third in the national last year, won the elementary division title with a score of 3,158. Parker McGaughey led Bay Creek with a 277. Lake Park (Albany) Elementary’s Nathan Masters won the elementary male division with a score of 281, while Liberty (Toccoa) Elementary’s Skylar McFarlin fired a 284 to win the elementary female division. 
 All division winning teams automatically qualify for nationals, while several other schools met qualifying scores to reach this year’s National Tournament in May. A “team” consists of 12 to 24 shooters with at least four members of the opposite gender. Over 43 percent of the state tournament field was female. Individuals finishing in the top 10 at state automatically qualify for the national tournament. 
@@ -260,10 +259,10 @@ Archery teams that competed in the Georgia-NASP state tournament this week had t
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 Words     | Official name 
-Teaser          |	25 Words     | Short explanation of purpose
-Long Copy	      | 150 Words    | General information about goals, audience and execution
-Logo            | 1 Image      |	Graphic
+Title	        | 10 Words     | Official name 
+Teaser          | 25 Words     | Short explanation of purpose
+Long Copy       | 150 Words    | General information about goals, audience and execution
+Logo            | 1 Image      | Graphic
 Image           | 1 Image      | Photo of work or activity associated with Program
 Link            | Link         | Umbrella organization or promotional resource
 
@@ -294,9 +293,9 @@ naspschool.org
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 Words     | Instructions headline; includes "How to ..." 
-Teaser          |	25 Words     | Short explanation of what you will learn
-Long Copy	      | 1000 Words   | Step-by-step instructions
+Title	        | 10 Words     | Instructions headline; includes "How to ..." 
+Teaser          | 25 Words     | Short explanation of what you will learn
+Long Copy	| 1000 Words   | Step-by-step instructions
 Image(s)        | Photo/Graphic| Demonstrates directions  
 
 
@@ -370,11 +369,11 @@ Proper installation of a 'tied on string nock' - NASP
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 Words     | Headline 
+Title	        | 10 Words     | Headline 
 Subhead         | 25 Words     | Secondary point 
 Byline          | 10 Words     | Full name, title of author
-Teaser          |	25 Words     | Short explanation of what you will learn
-Long Copy	      | 1000 Words   | Evergreen information
+Teaser          | 25 Words     | Short explanation of what you will learn
+Long Copy       | 1000 Words   | Evergreen information
 Image(s)        | Photo/Graphic| Demonstrates topic  
 
 
@@ -414,9 +413,9 @@ In interviews with teachers, they report that:
 
 Element         | Max Quantity | Description
 :-------------- | :----------- | :--------------
-Title	          | 10 Words     | Official name 
-Teaser          |	25 Words     | Short explanation of purpose
-Long Copy	      | 150 Words    | General information about goals, audience and execution
+Title	        | 10 Words     | Official name 
+Teaser          | 25 Words     | Short explanation of purpose
+Long Copy	| 150 Words    | General information about goals, audience and execution
 Image           | 1 Image      | Photo of work or activity associated with Program
 
 ###EXAMPLE: Shooting Sports Program
@@ -425,7 +424,7 @@ Image           | 1 Image      | Photo of work or activity associated with Progr
 Shooting Sports Program
 
 ####TEASER
-The Shooting Sports Program of the Wildlife Resources Division is focused on promoting this lifelong activity -- archery, target shooting, hunting -- for youth and families.
+The Shooting Sports Program of the Wildlife Resources Division is focused on promoting this lifelong activity — archery, target shooting, hunting — for youth and families.
 
 ####LONG COPY
 Supported by the purchase of sporting licenses, the Shooting Sports Program seeks to cultivate skill and enjoyment while teaching responsibility, ethics and conservation values in Georgia's youth. This is achieved through a continuum of experiences and opportunities in the community and schools. Programs partner with parents, educators, manufacturers and sporting associations to make the sport affordable, effective and accessible to all. Annually, the Shooting Sports Program serves XX,XXX children. 
