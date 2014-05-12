@@ -157,14 +157,12 @@ A **service** is performed by a professional for the benefit of an individual or
 - Providing Technical Assistance
 - Providing Data and Research
 
-##PLACE
+##AREA
 
-A **place** is a physical property that is open to the public, at least in part, and managed by the Department of Natural Resources for the purpose of conservation/recreation in relationship to the Wildlife Resources Division mission.
+An **area** is a physical property that is open to the public, at least in part, and managed by the Department of Natural Resources for the purpose of conservation/recreation in relationship to the Wildlife Resources Division mission.
 
 ###TYPES: 
 - Wildlife Management Area
 - Public Fishing Area
-- Education Center
 - Hatchery
-- Range
 - State Park
