@@ -67,7 +67,12 @@ An **area** is a physical property that is open to the public, at least in part,
 
 
 ##ARTICLE
+An **article** is an evergreen narrative that provides useful background information in relation to an activity, species or location. It helps the reader understand or appreciate a larger topic, and a better source of information cannot be found elsewhere on the web. An article should include a photo and possibly a byline. 
 
+###EXAMPLES INCLUDE:
+- Out My Back Door by Terry Johnson
+- Biologists Document White-Nose Syndrome in NE Georgia
+- Landowner Liability & Hunting
 
 
 
@@ -117,8 +122,9 @@ A **facility** is any structure or building that offers specific or independent 
 
 ##FAQ
 
+An FAQ (or Frequently Asked Question) is a piece of information that anticipates a common question among members of the public. It is stated as a query and the accompanying answer.
 
-
+- I Caught a tagged fish, what should I do?
 
 ##FEATURE
 
@@ -146,8 +152,11 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 
 
 ##HOW-TO
+A How-To is an instructive, step-by-step narrative that supports the pursuit of an activity. How-Tos should include photos, diagrams and/or downloadable manuals.
 
+###EXAMPLES INCLUDE:
 
+- Build a Bat Roost Box
 
 
 ##LICENSE GROUP
@@ -176,6 +185,11 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 
 ##NEWS
 
+A **news** item conveys timely information with an expiration date within two years. A news item supports Wildlife Resources Division’s mission or supports the general public in their pursuit of seasonal activities.
+
+- National Safe Boating Week Scheduled for May 17-23, 2014
+- First Loggerhead Nest of the Season Found on Cumberland
+- New Largemouth Bass Regulation Enacted at Hugh M. Gillis PFA
 
 
 
