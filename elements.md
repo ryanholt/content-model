@@ -329,25 +329,32 @@ Long Copy       | 1000 Words   | Complete text of press release except: no datel
 ###EXAMPLE: State Archery Tournament - 36 Georgia Schools Qualify for Nationals
 
 ####TITLE
-State Archery Tournament - 36 Georgia Schools Qualify for Nationals
+> State Archery Tournament - 36 Georgia Schools Qualify for Nationals
 
 ####SUBHEAD
-Elementary, Middle and High School Students Prepare for National Archery in Schools Program Tournament
+> Elementary, Middle and High School Students Prepare for National Archery in Schools Program Tournament
 
 ####TEASER
-Georgia’s young archers keep getting better and the scores keep going up. That was never more evident than at the recent eighth annual National Archery in the Schools Georgia State Tournament as 857 NASP archers from 44 schools competed at the Georgia National Fairgrounds in Perry. 
+> Georgia’s young archers keep getting better and the scores keep going up. That was never more evident than at the recent eighth annual National Archery in the Schools Georgia State Tournament as 857 NASP archers from 44 schools competed at the Georgia National Fairgrounds in Perry. 
 
 ####LONG COPY
-Georgia’s young archers keep getting better and the scores keep going up. That was never more evident than at the recent eighth annual National Archery in the Schools Georgia State Tournament as 857 NASP archers from 44 schools competed at the Georgia National Fairgrounds in Perry. 
-After more than 34,000 arrows were shot, Bagley Middle School from Chatsworth scored a state tournament record 3,348 team score and was crowned the overall highest scoring champion. 
-Thirty-six Georgia schools posted scores that may qualify for the NASP National Tournament scheduled to take place May 9-10 in Louisville, Kentucky. 
-The National Tournament will be held at the Kentucky Exposition Center with an expected nearly 11,000 archers from more than 40 states competing, making it the largest archery tournament in the world. NASP Nationals will register qualifying teams and individual archers until the two-day tournament is filled to capacity. 
-WINNING SCHOOLS AND STUDENTS  
-Winners at the 2014 NASP-Georgia State Tournament include: Bagley Middle out of Chatsworth shot a 3,348 to lead a field of 44 archery teams and more than 850 shooters from state-qualifying elementary, middle and high schools.  Bagley Middle featured middle school female division champion Sarah Parker, who arrowed a score of 291 (out of a perfect 300) to capture the overall high scoring trophy. Bagley was also home to Brady Talent, who shot a 285 to win the middle school male crown. 
-    North Murray High School in Chatworth won the high school division championship with a score of 3,332, also a high school division record score at state. North Murray was led by high school male division winner Hunter Jennings and high school female division winner Haley Bagley. Both shot a 288. 
-    Bay Creek Elementary School in Loganville, which finished third in the national last year, won the elementary division title with a score of 3,158. Parker McGaughey led Bay Creek with a 277. Lake Park (Albany) Elementary’s Nathan Masters won the elementary male division with a score of 281, while Liberty (Toccoa) Elementary’s Skylar McFarlin fired a 284 to win the elementary female division. 
-All division winning teams automatically qualify for nationals, while several other schools met qualifying scores to reach this year’s National Tournament in May. A “team” consists of 12 to 24 shooters with at least four members of the opposite gender. Over 43 percent of the state tournament field was female. Individuals finishing in the top 10 at state automatically qualify for the national tournament. 
-Archery teams that competed in the Georgia-NASP state tournament this week had to win their division at one of seven regional tournaments in February and March of this year or shoot a regional score high enough to be selected as a wildcard team. More than 1,500 student archers competed in the regional tournaments.  
+> Georgia’s young archers keep getting better and the scores keep going up. That was never more evident than at the recent eighth annual National Archery in the Schools Georgia State Tournament as 857 NASP archers from 44 schools competed at the Georgia National Fairgrounds in Perry.
+
+> After more than 34,000 arrows were shot, Bagley Middle School from Chatsworth scored a state tournament record 3,348 team score and was crowned the overall highest scoring champion.
+
+> Thirty-six Georgia schools posted scores that may qualify for the NASP National Tournament scheduled to take place May 9-10 in Louisville, Kentucky. 
+
+> The National Tournament will be held at the Kentucky Exposition Center with an expected nearly 11,000 archers from more than 40 states competing, making it the largest archery tournament in the world. NASP Nationals will register qualifying teams and individual archers until the two-day tournament is filled to capacity.
+
+> ###WINNING SCHOOLS AND STUDENTS  
+> Winners at the 2014 NASP-Georgia State Tournament include: Bagley Middle out of Chatsworth shot a 3,348 to lead a field of 44 archery teams and more than 850 shooters from state-qualifying elementary, middle and high schools.
+> - Bagley Middle featured middle school female division champion Sarah Parker, who arrowed a score of 291 (out of a perfect 300) to capture the overall high scoring trophy. Bagley was also home to Brady Talent, who shot a 285 to win the middle school male crown.
+> - North Murray High School in Chatworth won the high school division championship with a score of 3,332, also a high school division record score at state. North Murray was led by high school male division winner Hunter Jennings and high school female division winner Haley Bagley. Both shot a 288.
+> - Bay Creek Elementary School in Loganville, which finished third in the national last year, won the elementary division title with a score of 3,158. Parker McGaughey led Bay Creek with a 277. Lake Park (Albany) Elementary’s Nathan Masters won the elementary male division with a score of 281, while Liberty (Toccoa) Elementary’s Skylar McFarlin fired a 284 to win the elementary female division. 
+
+> All division winning teams automatically qualify for nationals, while several other schools met qualifying scores to reach this year’s National Tournament in May. A “team” consists of 12 to 24 shooters with at least four members of the opposite gender. Over 43 percent of the state tournament field was female. Individuals finishing in the top 10 at state automatically qualify for the national tournament. 
+
+> Archery teams that competed in the Georgia-NASP state tournament this week had to win their division at one of seven regional tournaments in February and March of this year or shoot a regional score high enough to be selected as a wildcard team. More than 1,500 student archers competed in the regional tournaments.  
 
 
 
