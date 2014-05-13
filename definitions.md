@@ -50,6 +50,54 @@ Paddling          | Canoeing<br>Kayaking<br>Rowboating
 Shooting          | Archery<br>Firearms
 Wildlife Watching | Birding
 
+
+
+
+##AREA
+
+An **area** is a physical property that is open to the public, at least in part, and managed by the Department of Natural Resources for the purpose of conservation/recreation in relationship to the Wildlife Resources Division mission.
+
+###TYPES: 
+- Wildlife Management Area
+- Public Fishing Area
+- Hatchery
+- State Park
+
+
+
+
+##CALENDAR LISTING
+A **calendar listing** is a specific event on a specific day(s) and lives on the Global Calendar. Calendar listings may be classes, conferences, workshops, competitions, festivals, fairs, field days, camps or other organized events. They must be events open to the public or segment of the public that further the mission of Wildlife Resources. They may be organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
+
+Calendar listings provide specific instructions and information for attending the event, ie, the date, time, place, cost, reservation instructions, prerequisites, map, phone number/email, hosting organization and other details. 
+
+###EXAMPLES INCLUDE: 
+- JAKEs Day at Charlie Elliott, May 5
+- Free Fishing Days, September 24-25
+- Hunter Education 10-hour course at WRCC next Saturday
+- WILD Creatures of the Night Overnight Camp, July 7-10, Charlie Elliott
+- Statewide NASP Tournament, March 20, Perry
+- WILD Project Educator Workshop, December 14
+ 
+
+
+
+##EVENT
+
+An **event** is a specially organized experience, open to the public or a segment of the public, on a regular or recurring basis. An event contributes to a larger strategy or initiative within Wildlife Resources. For instance, Hunter Education Courses achieve certain goals for the Hunter Retention/Recruitment program. An event needs a consistent, year-round presence on the website. While specific details are a Calendar Listing on the Global Calendar, an event contains generic information to pique the reader’s interest — purpose, activities, outcomes, photos, etc. An event is organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
+
+###EXAMPLES INCLUDE:
+
+- JAKEs Day
+- Free Fishing Days
+- Hunter Education Courses
+- Summer Camps
+- NASP Tournaments
+- Project Wild Workshops
+
+
+
+
 ##FACILITY
 
 A **facility** is any structure or building that offers specific or independent programming and activities. It has its own hours of operations and possibly its own staffing and/or a separate point of access. Facilities are listed independently on the website as well as part of some area listings. 
@@ -58,6 +106,8 @@ A **facility** is any structure or building that offers specific or independent 
 - Firearms Range
 - Archery Range
 - Conference Center
+
+
 
 
 ##FEATURE
@@ -82,46 +132,8 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 - Trail Shelters
 - Fish Cleaning Stations
 
-##CALENDAR LISTING
-A **calendar listing** is a specific event on a specific day(s) and lives on the Global Calendar. Calendar listings may be classes, conferences, workshops, competitions, festivals, fairs, field days, camps or other organized events. They must be events open to the public or segment of the public that further the mission of Wildlife Resources. They may be organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
-
-Calendar listings provide specific instructions and information for attending the event, ie, the date, time, place, cost, reservation instructions, prerequisites, map, phone number/email, hosting organization and other details. 
-
-###EXAMPLES INCLUDE: 
-- JAKEs Day at Charlie Elliott, May 5
-- Free Fishing Days, September 24-25
-- Hunter Education 10-hour course at WRCC next Saturday
-- WILD Creatures of the Night Overnight Camp, July 7-10, Charlie Elliott
-- Statewide NASP Tournament, March 20, Perry
-- WILD Project Educator Workshop, December 14
-
-##EVENT
-
-An **event** is a specially organized experience, open to the public or a segment of the public, on a regular or recurring basis. An event contributes to a larger strategy or initiative within Wildlife Resources. For instance, Hunter Education Courses achieve certain goals for the Hunter Retention/Recruitment program. An event needs a consistent, year-round presence on the website. While specific details are a Calendar Listing on the Global Calendar, an event contains generic information to pique the reader’s interest — purpose, activities, outcomes, photos, etc. An event is organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
-
-###EXAMPLES INCLUDE:
-
-- JAKEs Day
-- Free Fishing Days
-- Hunter Education Courses
-- Summer Camps
-- NASP Tournaments
-- Project Wild Workshops
 
 
-##PROGRAM
-
-A **program** is an organized and structured effort, initiative, campaign or unit within Wildlife Resources Division that strives to conserve, enhance or promote wildlife through public participation. 
-
-A program is not a Service. Programs often have Events or other ways to invite the public into its specific area of focus. 
-
-A program often has an official name, and sometimes, a logo. Sometimes programs are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website.
-
-###EXAMPLES INCLUDE:
-
-- Juniors Acquiring Knowledge Ethics and Sportsmanship 
-- National Archery in the Schools Program 
-- Project Wild
 
 ##MANAGEMENT
 
@@ -138,6 +150,26 @@ A program often has an official name, and sometimes, a logo. Sometimes programs 
 - Go Fish Initiative
 - Prescribed Fire
 - The Stream Team
+
+
+
+
+##PROGRAM
+
+A **program** is an organized and structured effort, initiative, campaign or unit within Wildlife Resources Division that strives to conserve, enhance or promote wildlife through public participation. 
+
+A program is not a Service. Programs often have Events or other ways to invite the public into its specific area of focus. 
+
+A program often has an official name, and sometimes, a logo. Sometimes programs are “owned” by an external organization with its own website. Whenever possible, this existing website should be utilized as the default source of information on the program. Information specific to and necessary for Georgia can be listed on the Wildlife Resources website.
+
+###EXAMPLES INCLUDE:
+
+- Juniors Acquiring Knowledge Ethics and Sportsmanship 
+- National Archery in the Schools Program 
+- Project Wild
+
+
+
 
 ##SERVICE
 
@@ -156,13 +188,3 @@ A **service** is performed by a professional for the benefit of an individual or
 - Scoring, Measuring and Registry
 - Providing Technical Assistance
 - Providing Data and Research
-
-##AREA
-
-An **area** is a physical property that is open to the public, at least in part, and managed by the Department of Natural Resources for the purpose of conservation/recreation in relationship to the Wildlife Resources Division mission.
-
-###TYPES: 
-- Wildlife Management Area
-- Public Fishing Area
-- Hatchery
-- State Park
