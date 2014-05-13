@@ -66,6 +66,11 @@ An **area** is a physical property that is open to the public, at least in part,
 
 
 
+##ARTICLE
+
+
+
+
 ##CALENDAR LISTING
 A **calendar listing** is a specific event on a specific day(s) and lives on the Global Calendar. Calendar listings may be classes, conferences, workshops, competitions, festivals, fairs, field days, camps or other organized events. They must be events open to the public or segment of the public that further the mission of Wildlife Resources. They may be organized, promoted, sponsored or endorsed, in whole or part, by Wildlife Resources. 
 
@@ -110,6 +115,11 @@ A **facility** is any structure or building that offers specific or independent 
 
 
 
+##FAQ
+
+
+
+
 ##FEATURE
 
 A **feature** is any stand-alone structure or part of the natural landscape that directly supports Wildlife Resources’ designated activities. These items can be represented on a map as an area, a line or a point/symbol/icon.
@@ -135,6 +145,16 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 
 
 
+##HOW-TO
+
+
+
+
+##LICENSE GROUP
+
+
+
+
 ##MANAGEMENT
 
 **Management** is a large-scale operation or section within Wildlife Resources that directs ongoing conservation efforts. Not every operation is directly relevant to the public. At least one of the following questions should be answered "yes," before posting information on the website:
@@ -150,6 +170,16 @@ An **amenity** improves a customer’s comfort in using a feature or taking part
 - Go Fish Initiative
 - Prescribed Fire
 - The Stream Team
+
+
+
+
+##NEWS
+
+
+
+
+##PRIVILEGE
 
 
 
@@ -188,3 +218,8 @@ A **service** is performed by a professional for the benefit of an individual or
 - Scoring, Measuring and Registry
 - Providing Technical Assistance
 - Providing Data and Research
+
+
+
+
+##SPECIES PROFILE
