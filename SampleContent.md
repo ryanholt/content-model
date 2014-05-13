@@ -1,17 +1,33 @@
-SERVICE: 
+#SERVICE: 
+
 Wildlife Removal (includes table of vendors; agency forms)
-HOW-TO: 
+
+#HOW-TO: 
+
 How to avoid conflicts
+
 How to avoid deer-car collisions
-SPECIES: 
+
+#SPECIES: 
+
 Coyote
+
 Foxes
+
 Geese
+
 Deer
+
 Snakes
-NEWS: 
+
+#NEWS: 
+
 How to live with wildlife
+
 Seeing Bears in Your Yard?
-ARTICLES: 
+
+#ARTICLES: 
+
 Managing Wildlife on Your Land
+
 Backyard Wildlife
