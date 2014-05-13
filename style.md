@@ -6,6 +6,8 @@ In all cases, remember to be respectable and conscious of visitor’s time limit
 
 Sometimes, carefully outlined details are necessary for the reader to understand. In these situations, keep paragraphs and sentences short. Try breaking ideas is into bulleted lists and/or using subheads. 
 
+Never copy and paste text from a brochure, report or other document as content for the web. Writing for the web should be created and structured differently. It should be concise and direct compared to other writing styles. 
+
 
 ##FRIENDLY VOICE
 
@@ -70,5 +72,5 @@ The above explanation may require the visitor to remember the instructions or to
 Find a Kids Fishing Event – by month, day or location
 
 
-To follow ... WRD Style Guide
+To follow ... top 10 style rules
 
