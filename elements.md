@@ -356,7 +356,7 @@ Long Copy       | 1000 Words   | Complete text of press release except: no datel
 >
 > The National Tournament will be held at the Kentucky Exposition Center with an expected nearly 11,000 archers from more than 40 states competing, making it the largest archery tournament in the world. NASP Nationals will register qualifying teams and individual archers until the two-day tournament is filled to capacity.
 >
-> ###WINNING SCHOOLS AND STUDENTS  
+> ##WINNING SCHOOLS AND STUDENTS  
 >
 > Winners at the 2014 NASP-Georgia State Tournament include: Bagley Middle out of Chatsworth shot a 3,348 to lead a field of 44 archery teams and more than 850 shooters from state-qualifying elementary, middle and high schools.
 >
